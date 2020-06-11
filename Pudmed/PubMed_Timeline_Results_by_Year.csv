@@ -1,0 +1,20 @@
+"Search query: ((""software development""[Title/Abstract]) OR (""software construction""[Title/Abstract]) OR (""software Project*""[Title/Abstract])) OR (""software process*""[Title/Abstract]) OR (""software engineering"")[Title/Abstract]))AND( ""usability""[Title/Abstract] OR ""usable""[Title/Abstract]) AND (""medical""[Title/Abstract] OR “health”[Title/Abstract]))"
+Year,Count
+2020,2
+2019,7
+2018,14
+2017,5
+2016,10
+2015,2
+2014,4
+2013,2
+2012,7
+2011,5
+2010,5
+2009,2
+2008,1
+2007,1
+2006,1
+2002,1
+2001,1
+1994,1

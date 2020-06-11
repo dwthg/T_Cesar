@@ -29,3 +29,7 @@ metricas del proceso
 se podria mandar a un journal
 
 
+buscar titulos de excel con el buscar v
+
+pedido el excel que estas haciendo trabaja con google sheet 
+

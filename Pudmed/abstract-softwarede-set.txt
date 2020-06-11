@@ -1,0 +1,2619 @@
+﻿1. AMIA Annu Symp Proc. 2007 Oct 11:924.
+
+PDA for health professionals: can you deal with that?
+
+da Costa TM(1), Pinto VC, Mauad RF, Afonso DL, da Silva FA, Alves D, Schor P, 
+Pisa IT.
+
+Author information:
+(1)Health Informatics Department, Federal University of Sao Paulo (UNIFESP), 
+Brazil.
+
+Personal digital assistants (PDAs) are being increasingly used on the health 
+field, however, there are not many papers guiding a PDA-software development 
+process concerning its usability in health field. This paper presents our 
+experience dealing with PDAs regarding some elements of usability. We have shown 
+that if simple yet extremely important points are to be observed before and 
+during the development process, usability on PDA software can be greatly 
+improved.
+
+PMID: 18694024 [Indexed for MEDLINE]
+
+
+2. Int J Med Inform. 2001 Dec;64(2-3):111-27. doi: 10.1016/s1386-5056(01)00205-2.
+
+Delivering the electronic healthcare record for the 21st century.
+
+Grimson J(1).
+
+Author information:
+(1)Dublin Health Informatics Group, Centre for Health Informatics, O'Reilly 
+Institute Trinity College, Dublin 2, Ireland. jane.grimson@tcd.ie
+
+In spite of over four decades of research into Electronic Healthcare Record 
+Systems, the penetration of records which incorporate more than simply basic 
+information, into the working life of healthcare organisations is relatively 
+small. This paper discusses some of the key impediments to progress including in 
+particular, the lack of application of software engineering methodologies, the 
+absence of usable standards, and the failure to acknowledge the impact of record 
+systems on the healthcare system itself. However, Health Informatics researchers 
+need to be preparing for the next generation of systems which will be triggered 
+by the twin revolutions of the Internet and Genetic Medicine. This next 
+generation of EHCR will be a longitudinal cradle-to-the-grave active record 
+readily accessible and available via the Internet, and which will be linked to 
+clinical protocols and guidelines to drive the delivery of healthcare to the 
+individual citizen. Post-genomic research will unravel the link between genes, 
+disease, treatment and the environment and this information will be used to 
+promote health and individualise care. A number of key research issues are 
+identified which need to be addressed in order to realise the delivery of the 
+next generation of EHCR Systems.
+
+DOI: 10.1016/s1386-5056(01)00205-2
+PMID: 11734380 [Indexed for MEDLINE]
+
+
+3. Conf Proc IEEE Eng Med Biol Soc. 2011;2011:5339-42. doi: 
+10.1109/IEMBS.2011.6091321.
+
+Using Participatory Design in a Health Information System.
+
+Teixeira L(1), Saavedra V, Ferreira C, Santos BS.
+
+Author information:
+(1)Department of Economics, Management andIndustrial Engineering, and 
+Governance, Competitiveness and PublicPolitics, and the Institute of Electronics 
+and TelematicsEngineering of Aveiro, Aveiro University, Portugal. 
+lteixeira@ua.pt
+
+This article describes the experience of developing an interactive Health 
+Information System (iHIS) currently under test in a hospital, which benefited 
+from the practices of the User-Centred Design (UCD), in a Participatory Design 
+(PD) approach. Techniques from the Human-Computer Interaction (HCI) and/or 
+Usability Engineering (UE), combined with traditional Software Engineering (SE), 
+allowed an effective and usable solution from the user's point of view. The good 
+results usually achieved with this approach were confirmed. Despite these good 
+results, we deem that if there is not some control of the procedure by the 
+project manager, it may be difficult to end the requirement analysis, since 
+requirement reformulation is fostered.
+
+DOI: 10.1109/IEMBS.2011.6091321
+PMID: 22255544 [Indexed for MEDLINE]
+
+
+4. Yearb Med Inform. 2011;6:63-72.
+
+Towards open collaborative health informatics - The Role of free/libre open 
+source principles. Contribution of the IMIA Open Source Health Informatics 
+Working Group.
+
+Karopka T(1), Schmuhl H, Marcelo A, Molin JD, Wright G.
+
+Author information:
+(1)Stralsunder Str. 18, 18445 Prohn, Germany. TKaropka@gmail.com
+
+OBJECTIVES: : To analyze the contribution of Free/Libre Open Source Software in 
+health care (FLOSS-HC) and to give perspectives for future developments.
+METHODS: The paper summarizes FLOSS-related trends in health care as anticipated 
+by members of the IMIA Open Source Working Group. Data were obtained through 
+literature review and personal experience and observations of the authors in the 
+last two decades. A status quo is given by a frequency analysis of the database 
+of Medfloss.org, one of the world's largest platforms dedicated to FLOSS-HC. The 
+authors discuss current problems in the field of health care and finally give a 
+prospective roadmap, a projection of the potential influences of FLOSS in health 
+care.
+RESULTS: FLOSS-HC already exists for more than 2 decades. Several projects have 
+shown that FLOSS may produce highly competitive alternatives to proprietary 
+solutions that are at least equivalent in usability and have a better total cost 
+of ownership ratio. The Medfloss.org database currently lists 221 projects of 
+diverse application types.
+CONCLUSIONS: FLOSS principles hold a great potential for addressing several of 
+the most critical problems in health care IT. The authors argue that an 
+ecosystem perspective is relevant and that FLOSS principles are best suited to 
+create health IT systems that are able to evolve over time as medical knowledge, 
+technologies, insights, workflows etc. continuously change. All these factors 
+that inherently influence the development of health IT systems are changing at 
+an ever growing pace. Traditional models of software engineering are not able to 
+follow these changes and provide up-to-date systems for an acceptable cost/value 
+ratio. To allow FLOSS to positively influence Health IT in the future a 
+"FLOSS-friendly" environment has to be provided. Policy makers should resolve 
+uncertainties in the legal framework that disfavor FLOSS. Certification 
+procedures should be specified in a way that they do not raise additional 
+barriers for FLOSS.
+
+PMID: 21938327 [Indexed for MEDLINE]
+
+
+5. Comput Biol Med. 2002 May;32(3):141-9. doi: 10.1016/s0010-4825(02)00011-2.
+
+Evaluation in the design of health information systems: application of 
+approaches emerging from usability engineering.
+
+Kushniruk A(1).
+
+Author information:
+(1)Department of Mathematics and Statistics, Information Technology Division, 
+York University, 4700 Keele St., Toronto, Ont., Canada M3J 1P3. 
+andrek@mathstat.yorku.ca
+
+This paper examines the role of evaluation in the design of health care 
+information systems. A framework is presented for considering evaluation in the 
+context of software development processes, in particular, the systems 
+development life cycle (SDLC). Variations on standard design methodologies are 
+then discussed, including methods based on rapid development and continual 
+evaluation of prototype systems. Usability testing is presented as a key method 
+for conducting evaluations during iterative system development. The emergence of 
+design methodologies, where evaluation is viewed as a central part of the 
+development cycle is also discussed. Evaluation methodologies are then 
+considered along a continuum, ranging from studies involving a high degree of 
+experimental control to observational approaches. A full cycle approach to 
+evaluation of health care systems is argued for, involving deployment of new 
+methods across the SDLC. Implications for future work exploring the integration 
+of design and evaluation processes in health informatics are discussed.
+
+DOI: 10.1016/s0010-4825(02)00011-2
+PMID: 11922931 [Indexed for MEDLINE]
+
+
+6. Stud Health Technol Inform. 2011;164:293-7.
+
+Use of qualitative methods across the software development lifecycle in health 
+informatics.
+
+Borycki EM(1), Househ M, Kushniruk AW, Kuziemsky C.
+
+Author information:
+(1)School of Health Information Science, University of Victoria, Victoria, 
+British Columbia, Canada. emb@uvic.ca
+
+In this paper the authors review and discuss four different qualitative 
+approaches as they are used to evaluate health information systems: (1) grounded 
+theory, (2) ethnography, (3) verbal protocol analysis/usability engineering and 
+(4) action research. The authors describe the historical origins, current uses, 
+strengths and weakness of the three qualitative methodologies that are 
+frequently used in health informatics and they discuss an emerging approach: 
+action research. More importantly, they identify how each of the approaches can 
+be used across the SDLC to inform planning, analysis, design, implementation and 
+support of health information systems.
+
+PMID: 21335726 [Indexed for MEDLINE]
+
+
+7. PLoS One. 2018 Nov 6;13(11):e0206600. doi: 10.1371/journal.pone.0206600. 
+eCollection 2018.
+
+Telemonitoring system for patients with chronic kidney disease undergoing 
+peritoneal dialysis: Usability assessment based on a case study.
+
+Martínez García MA(1), Fernández Rosales MS(1), López Domínguez E(2), Hernández 
+Velázquez Y(2), Domínguez Isidro S(2).
+
+Author information:
+(1)General Hospital of Zone No. 11,Instituto Méxicano del Seguro Social, Xalapa, 
+Veracruz, Mexico.
+(2)Department of Computer Science, Laboratorio Nacional de Informática Avanzada, 
+Xalapa, Veracruz, México.
+
+There are two million people with chronic kidney disease (CKD) worldwide. In 
+Mexico, it is estimated that by 2025, there will be 212 thousand CKD cases. 
+Among the renal replacement treatments, peritoneal dialysis (PD) exists either 
+in the continuous ambulatory (CAPD) or automated (APD) mode, which requires 
+continuous monitoring and strict control. Thus, several software systems have 
+been proposed to perform reliable remote monitoring of patients using PD but 
+also to achieve the goal with effectiveness, efficiency and satisfaction; i.e., 
+in software engineering, this is called usability. However, few studies have 
+addressed usability issues using case studies with patients and medical staff in 
+real domains. In this paper, we present a usability assessment of a 
+telemonitoring system for patients with CKD on peritoneal dialysis treatment 
+through a case study with patients and medical staff of the Mexican Institute of 
+Social Security (IMSS). The usability evaluation was carried out through the 
+application of two satisfaction instruments. These instruments evaluated 
+multiple usability criteria, such as navigability, interactivity, motivation, 
+satisfaction, and applicability. The results obtained from the usability 
+evaluation show that, on average, the services offered by the system have 91.3% 
+acceptance by users (patient-doctors), with the APD and CAPD exchange data 
+registration services having the highest acceptance for patients, with a 
+positive perception of 94.5% and 92.3%, respectively. Meanwhile, for the doctors 
+and nurses, the alarm reception for patients in a risk situation was highest 
+with 95% acceptance. Based on the obtained results, the evaluated telemonitoring 
+system holds wide acceptance, satisfaction, and applicability from patients' and 
+doctors' perspectives. It is also noted that the evaluated system considers and 
+satisfies the requirements and suitable parameters that should be monitored in 
+PD treatment according to studies presented in the literature.
+
+DOI: 10.1371/journal.pone.0206600
+PMCID: PMC6219778
+PMID: 30399164 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+8. JMIR Mhealth Uhealth. 2019 Apr 11;7(4):e12551. doi: 10.2196/12551.
+
+A Mobile Phone App for Bedside Nursing Care: Design and Development Using an 
+Adapted Software Development Life Cycle Model.
+
+Ehrler F(1), Lovis C(1)(2), Blondon K(3).
+
+Author information:
+(1)Division of Medical Information Sciences, University Hospitals of Geneva, 
+Geneva, Switzerland.
+(2)Faculty of Medicine, University of Geneva, Geneva, Switzerland.
+(3)Medical Directorate, University Hospitals of Geneva, Geneva, Switzerland.
+
+BACKGROUND: Nurses are increasingly spending time on computers, and providing 
+them with a tailored tool to access clinical information and perform 
+documentation at the bedside could help to improve their efficiency. Designing 
+an app to support nurses' work at the bedside is a challenging task, given the 
+complexity of the care process.
+OBJECTIVE: This study aimed to present the design, development, and testing of a 
+smartphone app for nurses guided by an adapted software development life cycle 
+model that takes into consideration the complexity and constraints of a health 
+care setting.
+METHODS: The model drives us through an iterative development process 
+intersected by 3 stages of formative evaluation of growing ecological validity.
+RESULTS: The initial requirements identification stage included 11 participants 
+who helped us select the most important functionalities to integrate into the 
+tool. Starting with a usability evaluation allowed for the identification of 
+design issues that could have caused misuse. Then, making on-site evaluations 
+under the supervision of an investigator helped to understand the adequacy of 
+the tool with limited risks. Finally, the on-site evaluation allowed us to 
+validate the acceptance of the app by caregivers.
+CONCLUSIONS: The interpretation of the collected evaluation confirms the 
+necessary involvement of end users early in the process to help address the 
+heterogeneity of the nursing workflow processes in the different wards. We also 
+highlight the delicate balance between high-security measures to protect access 
+to patient data and maintaining ease of access for efficiency and usability. 
+Although a close collaboration with clinicians throughout the entire project 
+facilitated the development of a tailored solution, it was also important to 
+involve all stakeholders, in particular, the information technology (IT) 
+security officers.
+
+©Frederic Ehrler, Christian Lovis, Katherine Blondon. Originally published in 
+JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 11.04.2019.
+
+DOI: 10.2196/12551
+PMCID: PMC6482397
+PMID: 30973339 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+9. Int J Med Inform. 2018 Apr;112:114-122. doi: 10.1016/j.ijmedinf.2018.01.016. 
+Epub 2018 Jan 31.
+
+Experiences of building a medical data acquisition system based on two-level 
+modeling.
+
+Li B(1), Li J(2), Lan X(3), An Y(3), Gao W(3), Jiang Y(3).
+
+Author information:
+(1)Information Security and Big Data Research Institute, Central South 
+University, Changsha, China. Electronic address: libeiwu@126.com.
+(2)Information Security and Big Data Research Institute, Central South 
+University, Changsha, China. Electronic address: jobs_ljb@foxmail.com.
+(3)Information Security and Big Data Research Institute, Central South 
+University, Changsha, China.
+
+BACKGROUND AND PURPOSE: Compared to traditional software development strategies, 
+the two-level modeling approach is more flexible and applicable to build an 
+information system in the medical domain. However, the standards of two-level 
+modeling such as openEHR appear complex to medical professionals. This study 
+aims to investigate, implement, and improve the two-level modeling approach, and 
+discusses the experience of building a unified data acquisition system for four 
+affiliated university hospitals based on this approach.
+METHOD: After the investigation, we simplified the approach of archetype 
+modeling and developed a medical data acquisition system where medical experts 
+can define the metadata for their own specialties by using a visual easy-to-use 
+tool.
+RESULT: The medical data acquisition system for multiple centers, clinical 
+specialties, and diseases has been developed, and integrates the functions of 
+metadata modeling, form design, and data acquisition. To date, 93,353 data items 
+and 6,017 categories for 285 specific diseases have been created by medical 
+experts, and over 25,000 patients' information has been collected.
+DISCUSSION AND CONCLUSION: OpenEHR is an advanced two-level modeling method for 
+medical data, but its idea to separate domain knowledge and technical concern is 
+not easy to realize. Moreover, it is difficult to reach an agreement on 
+archetype definition. Therefore, we adopted simpler metadata modeling, and 
+employed What-You-See-Is-What-You-Get (WYSIWYG) tools to further improve the 
+usability of the system. Compared with the archetype definition, our approach 
+lowers the difficulty. Nevertheless, to build such a system, every participant 
+should have some knowledge in both medicine and information technology domains, 
+as these interdisciplinary talents are necessary.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2018.01.016
+PMID: 29500008 [Indexed for MEDLINE]
+
+
+10. PM R. 2017 May;9(5S):S19-S25. doi: 10.1016/j.pmrj.2017.02.011.
+
+IT Is From Mars and Physicians From Venus: Bridging the Gap.
+
+Huang ME(1).
+
+Author information:
+(1)Department of Physical Medicine and Rehabilitation, Northwestern University 
+Feinberg School of Medicine, Shirley Ryan AbilityLab, 355 E. Erie St, Chicago, 
+IL 60611(∗). Electronic address: mhuang@sralab.org.
+
+With increasing adoption of electronic health records (EHRs) and legislative 
+mandates for its use within the United States, collaboration between physicians 
+and information technology (IT) staff is essential. Current challenges that 
+physicians face include addressing EHR usability, system performance, adequate 
+training, issue resolution, regulatory compliance, and lack of awareness of IT 
+roles. These challenges lead to gaps in communication between clinicians and IT 
+staff. Strategies to improve collaboration between physicians and IT staff 
+include increasing physician involvement with health information technology 
+software development, involvement with legislative regulations and standards, IT 
+project implementation, as well as system stabilization and optimization. Other 
+key strategies to improve collaboration are also addressed, including proper 
+leadership support, proper training, and proper issue triage. Improved 
+collaboration can result in more effective EHR design and implementation which 
+in turn can enhance the end user experience and patient care.
+
+Copyright © 2017 American Academy of Physical Medicine and Rehabilitation. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pmrj.2017.02.011
+PMID: 28527499 [Indexed for MEDLINE]
+
+
+11. JMIR Mhealth Uhealth. 2019 Jul 19;7(7):e13503. doi: 10.2196/13503.
+
+A Smart and Multifaceted Mobile Health System for Delivering Evidence-Based 
+Secondary Prevention of Stroke in Rural China: Design, Development, and 
+Feasibility Study.
+
+Wu N(#)(1), Gong E(#)(2), Wang B(1), Gu W(2), Ding N(1), Zhang Z(1), Chen M(1), 
+Yan LL(2), Oldenburg B(3), Xu LQ(1).
+
+Author information:
+(1)Center of Excellence for mHealth and Smart Healthcare, China Mobile Research 
+Institute, China Mobile Communications Corporation, Beijing, China.
+(2)Global Health Research Center, Duke Kunshan University, Kunshan, China.
+(3)School of Population and Global Health, The University of Melbourne, 
+Victoria, Australia.
+(#)Contributed equally
+
+BACKGROUND: Mobile health (mHealth) technologies hold great promise in improving 
+the delivery of high-quality health care services. Yet, there has been little 
+research so far applying mHealth technologies in the context of delivering 
+stroke care in resource-limited rural regions.
+OBJECTIVE: This study aimed to introduce the design and development of an 
+mHealth system targeting primary health care providers and to ascertain its 
+feasibility in supporting the delivery of a System-Integrated techNology-Enabled 
+Model of cAre (SINEMA) service for strengthening secondary prevention of stroke 
+in rural China.
+METHODS: The SINEMA mHealth system was designed by a multidisciplinary team 
+comprising public health researchers, neurologists, and information and 
+communication technology experts. The iterative co-design and development of the 
+mHealth system involved the following 5 steps: (1) assessing the needs of 
+relevant end users through in-depth interviews of stakeholders, (2) designing 
+the functional modules and evidence-based care content, (3) designing and 
+building the system and user interface, (4) improving and enhancing the system 
+through a 3-month pilot test in 4 villages, and (5) finalizing the system and 
+deploying it in field trial, and finally, evaluating its feasibility through a 
+survey of the dominant user group.
+RESULTS: From the in-depth interviews of 49 relevant stakeholders, we found that 
+village doctors had limited capacity in caring for village-dwelling stroke 
+patients in rural areas. Primary health care workers demonstrated real needs in 
+receiving appropriate training and support from the mHealth system as well as 
+great interests in using the mHealth technologies and tools. Using these 
+findings, we designed a multifaceted mHealth system with 7 functional modules by 
+following the iterative user-centered design and software development approach. 
+The mHealth system, aimed at 3 different types of users (village doctors, town 
+physicians, and county managers), was developed and utilized in a 
+cluster-randomized controlled trial by 25 village doctors in a resource-limited 
+county in rural China to manage 637 stroke patients between July 2017 and July 
+2018. In the end, a survey on the usability and functions of the mHealth system 
+among village doctors (the dominant group of users, response rate=96%, 24/25) 
+revealed that most of them were satisfied with the essential functions provided 
+(71%) and were keen to continue using it (92%) after the study.
+CONCLUSIONS: The mHealth system was feasible for assisting primary health care 
+providers in rural China in delivering the SINEMA service on the secondary 
+prevention of stroke. Further research and initiatives in scaling up the SINEMA 
+approach and this mHealth system to other resource-limited regions in China and 
+beyond will likely enhance the quality and accessibility of essential secondary 
+prevention among stroke patients.
+CLINICALTRIAL: ClinicalTrials.gov NCT03185858; 
+https://clinicaltrials.gov/ct2/show/NCT03185858.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): 
+RR2-10.1016/j.ahj.2018.08.015.
+
+©Na Wu, Enying Gong, Bo Wang, Wanbing Gu, Nan Ding, Zhuoran Zhang, Mengyao Chen, 
+Lijing L Yan, Brian Oldenburg, Li-Qun Xu. Originally published in JMIR Mhealth 
+and Uhealth (http://mhealth.jmir.org), 19.07.2019.
+
+DOI: 10.2196/13503
+PMCID: PMC6676792
+PMID: 31325288
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+12. Mil Med. 2009 May;174(5 Suppl):27-34. doi: 10.7205/milmed-d-03-9608.
+
+Software architecture and engineering for patient records: current and future.
+
+Weng C(1), Levine BA, Mun SK.
+
+Author information:
+(1)Department of Biomedical Informatics, Columbia University College of 
+Physicians and Surgeons, 622 W 168 Street, VC-5, New York, NY 10032, USA.
+
+During the "The National Forum on the Future of the Defense Health Information 
+System," a track focusing on "Systems Architecture and Software Engineering" 
+included eight presenters. These presenters identified three key areas of 
+interest in this field, which include the need for open enterprise architecture 
+and a federated database design, net centrality based on service-oriented 
+architecture, and the need for focus on software usability and reusability. The 
+eight panelists provided recommendations related to the suitability of 
+service-oriented architecture and the enabling technologies of grid computing 
+and Web 2.0 for building health services research centers and federated data 
+warehouses to facilitate large-scale collaborative health care and research. 
+Finally, they discussed the need to leverage industry best practices for 
+software engineering to facilitate rapid software development, testing, and 
+deployment.
+
+DOI: 10.7205/milmed-d-03-9608
+PMID: 19562959 [Indexed for MEDLINE]
+
+
+13. JMIR Form Res. 2018 Sep 6;2(2):e19. doi: 10.2196/formative.9954.
+
+A Stress Management App Intervention for Cancer Survivors: Design, Development, 
+and Usability Testing.
+
+Børøsund E(1), Mirkovic J(1), Clark MM(2), Ehlers SL(2), Andrykowski MA(3), 
+Bergland A(1), Westeng M(1), Solberg Nes L(1)(2)(4).
+
+Author information:
+(1)Center for Shared Decision Making and Collaborative Care Research, Division 
+of Medicine, Oslo University Hospital, Oslo, Norway.
+(2)Department of Psychiatry and Psychology, College of Medicine and Science, 
+Mayo Clinic, Rochester, MN, United States.
+(3)Department of Behavioral Science, College of Medicine, University of 
+Kentucky, Lexington, KY, United States.
+(4)Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, 
+Oslo, Norway.
+
+BACKGROUND: Distress is prevalent in cancer survivors. Stress management 
+interventions can reduce distress and improve quality of life for cancer 
+patients, but many people with cancer are unfortunately not offered or able to 
+attend such in-person stress management interventions.
+OBJECTIVE: The objective of this study was to develop an evidence-based stress 
+management intervention for patients living with cancer that can be delivered 
+electronically with wide reach and dissemination. This paper describes the 
+design and development process of a technology-based stress management 
+intervention for cancer survivors, including the exploration phase, intervention 
+content development, iterative software development (including design, 
+development, and formative evaluation of low- and high-level prototypes), and 
+security and privacy considerations.
+METHODS: Design and development processes were iterative and performed in close 
+collaboration with key stakeholders (N=48). In the exploration phase, 
+identifying needs and requirements for the intervention, 28 participants gave 
+input, including male and female cancer survivors (n=11) representing a wide age 
+range (31-81 years) and cancer diagnoses, healthcare providers (n=8) including 
+psychosocial oncology experts, and eHealth experts (n=9) including information 
+technology design and developers. To ensure user involvement in each phase 
+various user-centered design and service design methods were included, such as 
+interviews, usability testing, and think aloud processes. Overall, participants 
+were involved usability testing in the software development and formative 
+evaluation phase, including cancer survivors (n=6), healthy volunteers (n=7), 
+health care providers (n=2), and eHealth experts (n=5). Intervention content was 
+developed by stress management experts based on well-known cognitive behavioral 
+stress management strategies and adjusted to electronic format through multiple 
+iterations with stakeholders. Privacy and security issues were considered 
+throughout.
+RESULTS: The design and development process identified a variety of stakeholder 
+requirements. Cancer survivors preferred stress management through a mobile app 
+rather than through a personal computer (PC) and identified usefulness, easy 
+access, user friendliness, use of easily understandable language, and many brief 
+sections rather than longer ones as important components of the intervention. 
+These requirements were also supported by recommendations from health care 
+providers and eHealth experts. The final intervention was named StressProffen 
+and the hospital Privacy and Security Protection Committee was part of the final 
+intervention approval to also ensure anchoring in the hospital organization.
+CONCLUSIONS: Interventions, even evidence-based, have little impact if not 
+actively used. This study illustrates how user-centered design and service 
+design can be applied to identify and incorporate essential stakeholder aspects 
+in the entire design and development process. In combination with evidence-based 
+concepts, this process facilitated development of a stress management 
+intervention truly designed for the end users, in this case, cancer survivors.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT02939612; 
+https://clinicaltrials.gov/ct2/show/NCT02939612 (Archived at WebCite at 
+http://www.webcitation.org/71l9HcfcB).
+
+©Elin Børøsund, Jelena Mirkovic, Matthew M Clark, Shawna L Ehlers, Michael A 
+Andrykowski, Anne Bergland, Marianne Westeng, Lise Solberg Nes. Originally 
+published in JMIR Formative Research (http://formative.jmir.org), 06.09.2018.
+
+DOI: 10.2196/formative.9954
+PMCID: PMC6334690
+PMID: 30684438
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+14. BioData Min. 2016 Apr 27;9:16. doi: 10.1186/s13040-016-0095-3. eCollection 2016.
+
+Visual programming for next-generation sequencing data analytics.
+
+Milicchio F(1), Rose R(2), Bian J(3), Min J(4), Prosperi M(4).
+
+Author information:
+(1)Department of Engineering, Roma Tre University, Rome, Italy.
+(2)Bioinfoexperts, LLC, Thibodaux, LA USA.
+(3)Department of Health Outcomes and Policy, University of Florida, Gainesville, 
+FL USA.
+(4)Department of Epidemiology, College of Public Health and Health Professions & 
+College of Medicine, University of Florida, 2004 Mowry Road, Gainesville, 
+32610-0231 FL USA.
+
+BACKGROUND: High-throughput or next-generation sequencing (NGS) technologies 
+have become an established and affordable experimental framework in biological 
+and medical sciences for all basic and translational research. Processing and 
+analyzing NGS data is challenging. NGS data are big, heterogeneous, sparse, and 
+error prone. Although a plethora of tools for NGS data analysis has emerged in 
+the past decade, (i) software development is still lagging behind data 
+generation capabilities, and (ii) there is a 'cultural' gap between the end user 
+and the developer.
+TEXT: Generic software template libraries specifically developed for NGS can 
+help in dealing with the former problem, whilst coupling template libraries with 
+visual programming may help with the latter. Here we scrutinize the 
+state-of-the-art low-level software libraries implemented specifically for NGS 
+and graphical tools for NGS analytics. An ideal developing environment for NGS 
+should be modular (with a native library interface), scalable in computational 
+methods (i.e. serial, multithread, distributed), transparent 
+(platform-independent), interoperable (with external software interface), and 
+usable (via an intuitive graphical user interface). These characteristics should 
+facilitate both the run of standardized NGS pipelines and the development of new 
+workflows based on technological advancements or users' needs. We discuss in 
+detail the potential of a computational framework blending generic template 
+programming and visual programming that addresses all of the current 
+limitations.
+CONCLUSION: In the long term, a proper, well-developed (although not necessarily 
+unique) software framework will bridge the current gap between data generation 
+and hypothesis testing. This will eventually facilitate the development of novel 
+diagnostic tools embedded in routine healthcare.
+
+DOI: 10.1186/s13040-016-0095-3
+PMCID: PMC4848821
+PMID: 27127540
+
+
+15. Stud Health Technol Inform. 2019 Aug 21;264:868-872. doi: 10.3233/SHTI190347.
+
+IEC 62304 Ed. 2: Software Life Cycle Standard for Health Software.
+
+Värri A(1), Kranz-Zuppan P(2), de la Cruz R(3).
+
+Author information:
+(1)Tampere University, Tampere, Finland.
+(2)Medtronic, plc, Mounds View, Minnesota, USA.
+(3)Silver Lake Group, Inc. (SLGI), Minnetonka, Minnesota, USA.
+
+The quality of software is high in medical devices due to the strict regulatory 
+requirements and their implementation in the software development processes 
+through the use of the IEC 62304 standard. The goal of this standard revision 
+project was to extend the scope of the standard to all health software and also 
+to bring the requirements of the 12 year old standard back to the 
+state-of-the-art including provisions for cybersecurity. The joint IEC/SC62A and 
+ISO/TC215 project team revised the standard and adapted its risk management, 
+usability, and security requirements to serve both the medical device industry 
+and the overall health software industry. The resulting second version of the 
+standard has gone through a multistage global voting process to achieve a 
+consensus of the requirements to serve both these communities. The resulting 
+standard has potential to have a major impact on the quality of software used in 
+health care globally.
+
+DOI: 10.3233/SHTI190347
+PMID: 31438048 [Indexed for MEDLINE]
+
+
+16. Stud Health Technol Inform. 2015;216:968.
+
+A Model for Usability Evaluation for the Development and Implementation of 
+Consumer eHealth Interventions.
+
+Parry D(1), Carter P(1), Koziol-McLain J(2), Feather J(2).
+
+Author information:
+(1)School of Computer and Mathematical Science, Auckland University of 
+Technology, Auckland, New Zealand.
+(2)Faculty of Health & Environmental Sciences, Auckland University of 
+Technology, Auckland, New Zealand.
+
+Consumer eHealth products are often used by people in their own homes or other 
+settings without dedicated clinical supervision, and often with minimal training 
+and limited support--much as eCommerce and eGovernment applications are 
+currently deployed. Internet based self-care systems have been advocated for 
+over a decade as a way to reduce costs and allow more convenient care, 
+and--because of the expectation that they will be used to reduced health cost--, 
+by increasing self-care and avoiding hospitalization. However, the history of 
+consumer eHealth interventions is mixed, with many unsuccessful implementations. 
+Many consumer eHealth products will form part of a broader complex intervention, 
+with many possible benefits and effects on both individuals and society. This 
+poster describes a model of consumer eHealth assessment based on multiple 
+methods of usability evaluation at different stages in the design and fielding 
+of eHealth systems. We argue that different methods of usability evaluation are 
+able to give valuable insights into the likely effects of an intervention in a 
+way that is congruent with software development processes.
+
+PMID: 26262270 [Indexed for MEDLINE]
+
+
+17. Methods Inf Med. 2012;51(5):441-8. doi: 10.3414/ME11-02-0031. Epub 2012 Sep 28.
+
+MITK diffusion imaging.
+
+Fritzsche KH(1), Neher PF, Reicht I, van Bruggen T, Goch C, Reisert M, Nolden M, 
+Zelzer S, Meinzer HP, Stieltjes B.
+
+Author information:
+(1)German Cancer Research Centre, E 130 - Division of Medical and Biological 
+Informatics, Im Neuenheimer Feld 280, 69120 Heidelberg, Germany. 
+k.fritzsche@dkfz-heidelberg.de
+
+BACKGROUND: Diffusion-MRI provides a unique window on brain anatomy and insights 
+into aspects of tissue structure in living humans that could not be studied 
+previously. There is a major effort in this rapidly evolving field of research 
+to develop the algorithmic tools necessary to cope with the complexity of the 
+datasets.
+OBJECTIVES: This work illustrates our strategy that encompasses the development 
+of a modularized and open software tool for data processing, visualization and 
+interactive exploration in diffusion imaging research and aims at reinforcing 
+sustainable evaluation and progress in the field.
+METHODS: In this paper, the usability and capabilities of a new application and 
+toolkit component of the Medical Imaging and Interaction Toolkit (MITK, 
+www.mitk.org), MITK-DI, are demonstrated using in-vivo datasets.
+RESULTS: MITK-DI provides a comprehensive software framework for 
+high-performance data processing, analysis and interactive data exploration, 
+which is designed in a modular, extensible fashion (using CTK) and in adherence 
+to widely accepted coding standards (e.g. ITK, VTK). MITK-DI is available both 
+as an open source software development toolkit and as a ready-to-use installable 
+application.
+CONCLUSIONS: The open source release of the modular MITK-DI tools will increase 
+verifiability and comparability within the research community and will also be 
+an important step towards bringing many of the current techniques towards 
+clinical application.
+
+DOI: 10.3414/ME11-02-0031
+PMID: 23038239 [Indexed for MEDLINE]
+
+
+18. JMIR Mhealth Uhealth. 2018 Sep 11;6(9):e10074. doi: 10.2196/10074.
+
+A Smartphone App and Personalized Text Messaging Framework (InDEx) to Monitor 
+and Reduce Alcohol Use in Ex-Serving Personnel: Development and Feasibility 
+Study.
+
+Leightley D(1), Puddephatt JA(2), Jones N(3), Mahmoodi T(4), Chui Z(5), Field 
+M(2)(6), Drummond C(7)(8), Rona RJ(1), Fear NT(1)(3), Goodwin L(2).
+
+Author information:
+(1)King's Centre for Military Health Research, Institute of Psychiatry, 
+Psychology & Neuroscience, King's College London, London, United Kingdom.
+(2)Department of Psychological Sciences, University of Liverpool, Liverpool, 
+United Kingdom.
+(3)Academic Department of Military Mental Health, Institute of Psychiatry, 
+Psychology & Neuroscience, King's College London, London, United Kingdom.
+(4)Department of Informatics, King's College London, London, United Kingdom.
+(5)Department of Psychological Medicine, Institute of Psychiatry, Psychology & 
+Neuroscience, King's College London, London, United Kingdom.
+(6)UK Centre for Tobacco and Alcohol Studies, Department of Psychological 
+Sciences, University of Liverpool, Liverpool, United Kingdom.
+(7)Addictions Department, Institute of Psychiatry, Psychology & Neuroscience, 
+King's College London, London, United Kingdom.
+(8)South London and Maudsley NHS Foundation Trust, London, United Kingdom.
+
+BACKGROUND: Self-reported alcohol misuse remains high in armed forces personnel 
+even after they have left service. More than 50% of ex-serving personnel meet 
+the criteria for hazardous alcohol use; however, many fail to acknowledge that 
+they have a problem. Previous research indicates that interventions delivered 
+via smartphone apps are suitable in promoting self-monitoring of alcohol use, 
+have a broad reach, and may be more cost-effective than other types of brief 
+interventions. There is currently no such intervention specifically designed for 
+the armed forces.
+OBJECTIVE: This study sought to describe the development of a tailored 
+smartphone app and personalized text messaging (short message service, SMS) 
+framework and to test the usability and feasibility (measured and reported as 
+user engagement) of this app in a hard-to-engage ex-serving population.
+METHODS: App development used Agile methodology (an incremental, iterative 
+approach used in software development) and was informed by behavior change 
+theory, participant feedback, and focus groups. Participants were recruited 
+between May 2017 and June 2017 from an existing United Kingdom longitudinal 
+military health and well-being cohort study, prescreened for eligibility, and 
+directed to download either Android or iOS versions of the "Information about 
+Drinking for Ex-serving personnel" (InDEx) app. Through the app, participants 
+were asked to record alcohol consumption, complete a range of self-report 
+measures, and set goals using implementation intentions (if-then plans). 
+Alongside the app, participants received daily automated personalized text 
+messages (SMS) corresponding to specific behavior change techniques with content 
+informed by the health action process approach with the intended purpose of 
+promoting the use of the drinks diary, suggesting alternative behaviors, and 
+providing feedback on goals setting.
+RESULTS: Invitations to take part in the study were sent to ex-serving 
+personnel, 22.6% (31/137) of whom accepted and downloaded the app. Participants 
+opened the InDEx app a median of 15.0 (interquartile range [IQR] 8.5-19.0) times 
+during the 4 week period (28 days), received an average of 36.1 (SD 3.2) text 
+messages (SMS), consumed alcohol on a median of 13.0 (IQR 11.0-15.0) days, and 
+consumed a median of 5.6 (IQR 3.3-11.8) units per drinking day in the first 
+week, which decreased to 4.7 (IQR 2.0-6.9) units by the last week and remained 
+active for 4.0 (IQR 3.0-4.0) weeks.
+CONCLUSIONS: Personnel engaged and used the app regularly as demonstrated by the 
+number of initializations, interactions, and time spent using InDEx. Future 
+research is needed to evaluate the engagement with and efficacy of InDEx for the 
+reduction of alcohol consumption and binge drinking in an armed forces 
+population.
+
+©Daniel Leightley, Jo-Anne Puddephatt, Norman Jones, Toktam Mahmoodi, Zoe Chui, 
+Matt Field, Colin Drummond, Roberto J Rona, Nicola T Fear, Laura Goodwin. 
+Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 
+11.09.2018.
+
+DOI: 10.2196/10074
+PMCID: PMC6231744
+PMID: 30206054
+
+Conflict of interest statement: Conflicts of Interest: NTF is a member of the 
+Independent Group Advising on the Release of Data for NHS (National Health 
+Service) Digital and a trustee of The Warrior Programme. NJ is a serving member 
+of the UK armed forces, but was not directed in any way by the Ministry of 
+Defence. CD is partly funded by the National Institute for Health Research 
+(NIHR) Biomedical Research Centre for Mental Health at South London and Maudsley 
+NHS Foundation Trust and King’s College London and partly funded by the NIHR 
+Collaborations for Leadership in Applied Health Research and Care South London 
+at King’s College Hospital NHS Foundation Trust.
+
+
+19. Int J Biol Sci. 2018 May 22;14(8):907-919. doi: 10.7150/ijbs.24617. eCollection 
+2018.
+
+MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService 
+Architecture.
+
+Yang Y(1)(2), Zu Q(2), Liu P(2), Ouyang D(1), Li X(2).
+
+Author information:
+(1)State Key Laboratory of Quality Research in Chinese Medicine, Institute of 
+Chinese Medical Sciences (ICMS), University of Macau, Macau, China.
+(2)Department of Computer and Information Science, Faculty of Science and 
+Technology, University of Macau, Macau, China.
+
+This paper takes up the problem of medical resource sharing through MicroService 
+architecture without compromising patient privacy. To achieve this goal, we 
+suggest refactoring the legacy EHR systems into autonomous MicroServices 
+communicating by the unified techniques such as RESTFul web service. This lets 
+us handle clinical data queries directly and far more efficiently for both 
+internal and external queries. The novelty of the proposed approach lies in 
+avoiding the data de-identification process often used as a means of preserving 
+patient privacy. The implemented toolkit combines software engineering 
+technologies such as Java EE, RESTful web services, JSON Web Tokens to allow 
+exchanging medical data in an unidentifiable XML and JSON format as well as 
+restricting users to the need-to-know principle. Our technique also inhibits 
+retrospective processing of data such as attacks by an adversary on a medical 
+dataset using advanced computational methods to reveal Protected Health 
+Information (PHI). The approach is validated on an endoscopic reporting 
+application based on openEHR and MST standards. From the usability perspective, 
+the approach can be used to query datasets by clinical researchers, governmental 
+or non-governmental organizations in monitoring health care and medical record 
+services to improve quality of care and treatment.
+
+DOI: 10.7150/ijbs.24617
+PMCID: PMC6036760
+PMID: 29989095 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interest exists.
+
+
+20. JMIR Hum Factors. 2018 Nov 28;5(4):e10721. doi: 10.2196/10721.
+
+Bridging the Gap Between Academic Research and Pragmatic Needs in Usability: A 
+Hybrid Approach to Usability Evaluation of Health Care Information Systems.
+
+Mann DM(#)(1)(2), Chokshi SK(#)(1), Kushniruk A(#)(3).
+
+Author information:
+(1)Department of Population Health, School of Medicine, New York University, New 
+York, NY, United States.
+(2)Medical Center Information Technology, NYU Langone Health, New York, NY, 
+United States.
+(3)School of Health Information Science, University of Victoria, Victoria, BC, 
+Canada.
+(#)Contributed equally
+
+BACKGROUND: Technology is increasingly embedded into the full spectrum of health 
+care. This movement has benefited from the application of software development 
+practices such as usability testing and agile development processes. These 
+practices are frequently applied in both commercial or operational and academic 
+settings. However, the relative importance placed on rapid iteration, validity, 
+reproducibility, generalizability, and efficiency differs between the 2 settings 
+and the needs and objectives of academic versus pragmatic usability evaluations.
+OBJECTIVE: This paper explores how usability evaluation typically varies on key 
+dimensions in pragmatic versus academic settings that impact the rapidity, 
+validity, and reproducibility of findings and proposes a hybrid approach aimed 
+at satisfying both pragmatic and academic objectives.
+METHODS: We outline the characteristics of pragmatic versus academically 
+oriented usability testing in health care, describe the tensions and gaps 
+resulting from differing contexts and goals, and present a model of this hybrid 
+process along with 2 case studies of digital development projects in which we 
+demonstrate this integrated approach to usability evaluation.
+RESULTS: The case studies presented illustrate design choices characteristic of 
+our hybrid approach to usability evaluation.
+CONCLUSIONS: Designed to leverage the strengths of both pragmatically and 
+academically focused usability studies, a hybrid approach allows new development 
+projects to efficiently iterate and optimize from usability data as well as 
+preserves the ability of these projects to produce deeper insights via thorough 
+qualitative analysis to inform further tool development and usability research 
+by way of academically focused dissemination.
+
+©Devin M Mann, Sara Kuppin Chokshi, Andre Kushniruk. Originally published in 
+JMIR Human Factors (http://humanfactors.jmir.org), 28.11.2018.
+
+DOI: 10.2196/10721
+PMCID: PMC6291682
+PMID: 30487119
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+21. Malar J. 2018 Nov 13;17(1):422. doi: 10.1186/s12936-018-2572-2.
+
+ResistanceSim: development and acceptability study of a serious game to improve 
+understanding of insecticide resistance management in vector control programmes.
+
+Thomsen EK(1), Hemingway C(1), South A(1), Duda KA(1), Dormann C(1), Farmer 
+R(2), Coleman M(3), Coleman M(1)(4).
+
+Author information:
+(1)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, L3 5QA, UK.
+(2)Extra Mile Studios, 142 West Nile St, Glasgow, G1 2RQ, UK.
+(3)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, L3 5QA, UK. 
+michael.coleman@lstmed.ac.uk.
+(4)IVCC, Pembroke Pl, Liverpool, L3 5QA, UK.
+
+The use of insecticides is the cornerstone of effective malaria vector control. 
+However, the last two decades has seen the ubiquitous use of insecticides, 
+predominantly pyrethroids, causing widespread insecticide resistance and 
+compromising the effectiveness of vector control. Considerable efforts to 
+develop new active ingredients and interventions are underway. However, it is 
+essential to deploy strategies to mitigate the impact of insecticide resistance 
+now, both to maintain the efficacy of currently available tools as well as to 
+ensure the sustainability of new tools as they come to market. Although the 
+World Health Organization disseminated best practice guidelines for insecticide 
+resistance management (IRM), Rollback Malaria's Vector Control Working Group 
+identified the lack of practical knowledge of IRM as the primary gap in the 
+translation of evidence into policy. ResistanceSim is a capacity strengthening 
+tool designed to address this gap. The development process involved frequent 
+stakeholder consultation, including two separate workshops. These workshops 
+defined the learning objectives, target audience, and the role of mathematical 
+models in the game. Software development phases were interspersed with frequent 
+user testing, resulting in an iterative design process. User feedback was 
+evaluated via questionnaires with Likert-scale and open-ended questions. The 
+game was regularly evaluated by subject-area experts through meetings of an 
+external advisory panel. Through these processes, a series of learning domains 
+were identified and a set of specific learning objectives for each domain were 
+defined to be communicated to vector control programme personnel. A simple "game 
+model" was proposed that produces realistic outputs based on player strategy and 
+also runs in real-time. Early testing sessions revealed numerous usability 
+issues that prevented adequate player engagement. After extensive revisions, 
+later testing sessions indicated that the tool would be a valuable addition to 
+IRM training.
+
+DOI: 10.1186/s12936-018-2572-2
+PMCID: PMC6234623
+PMID: 30424788 [Indexed for MEDLINE]
+
+
+22. Comput Methods Programs Biomed. 2019 Apr;171:19-26. doi: 
+10.1016/j.cmpb.2019.02.011. Epub 2019 Feb 21.
+
+Polymorph segmentation representation for medical image computing.
+
+Pinter C(1), Lasso A(2), Fichtinger G(2).
+
+Author information:
+(1)Laboratory for Percutaneous Surgery, School of Computing, 557 Goodwin Hall, 
+Queen's University, K7L 2N8, Kingston, Ontario, Canada. Electronic address: 
+csaba.pinter@queensu.ca.
+(2)Laboratory for Percutaneous Surgery, School of Computing, 557 Goodwin Hall, 
+Queen's University, K7L 2N8, Kingston, Ontario, Canada.
+
+BACKGROUND AND OBJECTIVE: Segmentation is a ubiquitous operation in medical 
+image computing. Various data representations can describe segmentation results, 
+such as labelmap volumes or surface models. Conversions between them are often 
+required, which typically include complex data processing steps. We identified 
+four challenges related to managing multiple representations: conversion method 
+selection, data provenance, data consistency, and coherence of in-memory 
+objects.
+METHODS: A complex data container preserves identity and provenance of the 
+contained representations and ensures data coherence. Conversions are executed 
+automatically on-demand. A graph containing the implemented conversion 
+algorithms determines each execution, ensuring consistency between various 
+representations. The design and implementation of a software library are 
+proposed, in order to provide a readily usable software tool to manage 
+segmentation data in multiple data representations. A low-level core library 
+called PolySeg implemented in the Visualization Toolkit (VTK) manages the data 
+objects and conversions. It is used by a high-level application layer, which has 
+been implemented in the medical image visualization and analysis platform 3D 
+Slicer. The application layer provides advanced visualization, transformation, 
+interoperability, and other functions.
+RESULTS: The core conversion algorithms comprising the graph were validated. 
+Several applications were implemented based on the library, demonstrating 
+advantages in terms of usability and ease of software development in each case. 
+The Segment Editor application provides fast, comprehensive, and easy-to-use 
+manual and semi-automatic segmentation workflows. Clinical applications for gel 
+dosimetry, external beam planning, and MRI-ultrasound image fusion in 
+brachytherapy were rapidly prototyped resulting robust applications that are 
+already in use in clinical research. The conversion algorithms were found to be 
+accurate and reliable using these applications.
+CONCLUSIONS: A generic software library has been designed and developed for 
+automatic management of multiple data formats in segmentation tasks. It enhances 
+both user and developer experience, enabling fast and convenient manual 
+workflows and quicker and more robust software prototyping. The software's 
+BSD-style open-source license allows complete freedom of use of the library.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2019.02.011
+PMID: 30902247 [Indexed for MEDLINE]
+
+
+23. Stud Health Technol Inform. 2014;201:211-8.
+
+Collaborative software development for a Brazilian telehealth program.
+
+Sanches LM(1), Harris MR(2), Abbott PA(2), Novaes MA(3), Lopes MH(4).
+
+Author information:
+(1)Department of Nursing CAV. Federal University of Pernambuco, Recife, PE, 
+Brazil.
+(2)School of Nursing, University of Michigan, Ann Arbor, MI, USA.
+(3)Telehealth Center NUTES. Federal University of Pernambuco, Recife, PE, 
+Brazil.
+(4)Department of Nursing, University of Campinas, Campinas, SP, Brazil.
+
+Telehealth services in the State of Pernambuco, Brazil are led by the Telehealth 
+Center (RedeNUTES) and based on HealthNet 2.0 software. Among the 
+tele-assistance services, health professionals have clinical discussions focused 
+on second opinions. This paper reports the experience in a PhD study through 
+mixed-methods, to evaluate the telehealth services, planning and modeling a new 
+tool to improve a telehealth system. We described the nurse's role in each phase 
+of this study. The method of User-Centered Design was explored in three phases 
+as Identification of work process, User's perception and collaborative modeling, 
+Observational usability study. The main frame was based on collaborative 
+techniques as Collaborative Prototype Design Process, cognitive walkthrough, and 
+thinking-aloud. The users also identified all usability problems identified by 
+the evaluators. The methods were useful in identifying usability problems, and 
+easy to employ using standard equipment and software thus a relatively low cost 
+approach to usability testing.
+
+PMID: 24943546 [Indexed for MEDLINE]
+
+
+24. JCO Clin Cancer Inform. 2019 Sep;3:1-17. doi: 10.1200/CCI.18.00120.
+
+Multidisciplinary Software Design for the Routine Monitoring and Assessment of 
+Pain in Palliative Care Services: The Development of PainCheck.
+
+Allsop MJ(1), Johnson O(1)(2), Taylor S(1), Hackett J(1), Allen P(1), Bennett 
+MI(1), Bewick BM(1).
+
+Author information:
+(1)University of Leeds, Leeds, United Kingdom.
+(2)X-Lab, Leeds, United Kingdom.
+
+PURPOSE: The use of health information technology (HIT) to support patient and 
+health professional communication is emerging as a core component of modern 
+cancer care. Approaches to HIT development for cancer care are often 
+underreported, despite their implementation in complex, multidisciplinary 
+environments, typically supporting patients with multifaceted needs. We describe 
+the development and evaluation of an e-health tool for pain management in 
+patients with advanced cancer, arising from collaboration between health 
+researchers and a commercial software development company.
+METHODS: We adopted a research-led development process, involving patients with 
+advanced cancer and their health professionals, focusing on use within real 
+clinical settings. A software development approach (disciplined agile delivery) 
+was combined with health science research methods (ie, diary studies, 
+face-to-face interviews, questionnaires, prototyping, think aloud, process 
+reviews, and pilots). Three software iterations were managed through three 
+disciplined agile delivery phases to develop PainCheck and prepare it for use in 
+a clinical trial.
+RESULTS: Findings from development phases (inception, elaboration, and 
+construction) informed the design and implementation of PainCheck. During the 
+transition phase, where PainCheck was evaluated in a randomized clinical trial, 
+there was variation in the extent of engagement by patients and health 
+professionals. Prior personal experience and confidence with HIT led to a 
+gatekeeping effect among health professionals, who were reluctant to introduce 
+PainCheck to patients. Patients who did use PainCheck seemed to benefit, and no 
+usability issues were reported.
+CONCLUSION: Health science research methods seemed to help in the development of 
+PainCheck, although a more rigorous application of implementation science 
+methodologies might help to elucidate further the barriers and facilitators to 
+adoption and inform an evidence-based plan for future implementation.
+
+DOI: 10.1200/CCI.18.00120
+PMCID: PMC6873922
+PMID: 31577449 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/cci/author-center. Open Payments is a public database containing 
+information reported by companies about payments made to US-licensed physicians 
+(Open Payments). OWEN JOHNSON: Leadership: X-Lab Stock and Other Ownership 
+Interests: X-Lab Consulting or Advisory Role: Advanced Digital Interaction 
+Shipley Travel, Accommodations, Expenses: X-Lab PETER ALLEN: Consulting or 
+Advisory Role: Sanofi Research Funding: Novartis MICHAEL I. BENNETT: Consulting 
+or Advisory Role: Shionogi No other potential conflicts of interest were 
+reported.
+
+
+25. Int J Med Inform. 2018 Jul;115:24-34. doi: 10.1016/j.ijmedinf.2018.04.007. Epub 
+2018 Apr 16.
+
+The design and evaluation of an antimicrobial resistance surveillance system for 
+neonatal intensive care units in Iran.
+
+Rezaei-Hachesu P(1), Samad-Soltani T(2), Yaghoubi S(3), GhaziSaeedi M(4), Mirnia 
+K(5), Masoumi-Asl H(6), Safdari R(4).
+
+Author information:
+(1)School of Management and Medical Informatics, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(2)School of Management and Medical Informatics, Tabriz University of Medical 
+Sciences, Tabriz, Iran. Electronic address: samadsoltani@tbzmed.ac.ir.
+(3)Asadabad Faculty of Medical Sciences, Asadabad, Iran.
+(4)School of Allied Medical Sciences, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(5)Paediatrics Research Centre, School of Medicine, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(6)Centre for Communicable Disease Control, Ministry of Health and Medical 
+Education, Tehran, Iran.
+
+INTRODUCTION: Neonatal intensive care units (NICUs) have complex patients in 
+terms of their diagnoses and required treatments. Antimicrobial treatment is a 
+common therapy for patients in NICUs. To solve problems pertaining to empirical 
+therapy, antimicrobial stewardship programs have recently been introduced. 
+Despite the success of these programs in terms of data collection, there is 
+still inefficiency in terms of analyzing and reporting the data. Thus, to 
+successfully implement these stewardship programs, the design of antimicrobial 
+resistance (AMR) surveillance systems is recommended as a first step. As a 
+result, this study aimed to design an AMR surveillance system for use in the 
+NICUs in northwestern Iranian hospitals to cover these information gaps.
+METHODS: The recommended system is compatible with the World Health Organization 
+(WHO) guidelines. The business intelligence (BI) requirements were extracted in 
+an interview with a product owner (PO) using a valid and reliable checklist. 
+Following this, an AMR surveillance system was designed and evaluated in 
+relation to user experiences via a user experience questionnaire (UEQ). Finally, 
+an association analysis was performed on the database, and the results were 
+reported by identifying the important multidrug resistances in the database.
+RESULTS: A customized software development methodology was proposed. The three 
+major modules of the AMR surveillance are the data registry, dashboard, and 
+decision support modules. The data registry module was implemented based on a 
+three-tier architecture, and the Clinical Decision Support System (CDSS) and 
+dashboard modules were designed based on the BI requirements of the Scrum 
+product owner (PO). The mean values of UEQ measures were in a good range. This 
+measures showed the suitable usability of the AMR surveillance system.
+CONCLUSION: Applying efficient software development methodologies allows for the 
+systems' compatibility with users' opinions and requirements. In addition, the 
+construction of interdisciplinary communication models for research and software 
+engineering allows for research and development concepts to be used in 
+operational environments.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2018.04.007
+PMID: 29779717 [Indexed for MEDLINE]
+
+
+26. JMIR Med Educ. 2016 Jun 1;2(1):e7. doi: 10.2196/mededu.5336.
+
+Enabling Access to Medical and Health Education in Rwanda Using Mobile 
+Technology: Needs Assessment for the Development of Mobile Medical Educator 
+Apps.
+
+Rusatira JC(1), Tomaszewski B, Dusabejambo V, Ndayiragije V, Gonsalves S, Sawant 
+A, Mumararungu A, Gasana G, Amendezo E, Haake A, Mutesa L.
+
+Author information:
+(1)College of Medicine and Health Sciences, University of Rwanda, Kigali, 
+Rwanda. rusatirac2001@gmail.com.
+
+BACKGROUND: Lack of access to health and medical education resources for doctors 
+in the developing world is a serious global health problem. In Rwanda, with a 
+population of 11 million, there is only one medical school, hence a shortage in 
+well-trained medical staff. The growth of interactive health technologies has 
+played a role in the improvement of health care in developed countries and has 
+offered alternative ways to offer continuous medical education while improving 
+patient's care. However, low and middle-income countries (LMIC) like Rwanda have 
+struggled to implement medical education technologies adapted to local settings 
+in medical practice and continuing education. Developing a user-centered mobile 
+computing approach for medical and health education programs has potential to 
+bring continuous medical education to doctors in rural and urban areas of Rwanda 
+and influence patient care outcomes.
+OBJECTIVE: The aim of this study is to determine user requirements, currently 
+available resources, and perspectives for potential medical education 
+technologies in Rwanda.
+METHODS: Information baseline and needs assessments data collection were 
+conducted in all 44 district hospitals (DHs) throughout Rwanda. The research 
+team collected qualitative data through interviews with 16 general practitioners 
+working across Rwanda and 97 self-administered online questionnaires for rural 
+areas. Data were collected and analyzed to address two key questions: (1) what 
+are the currently available tools for the use of mobile-based technology for 
+medical education in Rwanda, and (2) what are user's requirements for the 
+creation of a mobile medical education technology in Rwanda?
+RESULTS: General practitioners from different hospitals highlighted that none of 
+the available technologies avail local resources such as the Ministry of Health 
+(MOH) clinical treatment guidelines. Considering the number of patients that 
+doctors see in Rwanda, an average of 32 patients per day, there is need for a 
+locally adapted mobile education app that utilizes specific Rwandan medical 
+education resources. Based on our results, we propose a mobile medical education 
+app that could provide many benefits such as rapid decision making with lower 
+error rates, increasing the quality of data management and accessibility, and 
+improving practice efficiency and knowledge. In areas where Internet access is 
+limited, the proposed mobile medical education app would need to run on a mobile 
+device without Internet access.
+CONCLUSIONS: A user-centered design approach was adopted, starting with a needs 
+assessment with representative end users, which provided recommendations for the 
+development of a mobile medical education app specific to Rwanda. Specific app 
+features were identified through the needs assessment and it was evident that 
+there will be future benefits to ongoing incorporation of user-centered design 
+methods to better inform the software development and improve its usability. 
+Results of the user-centered design reported here can inform other medical 
+education technology developments in LMIC to ensure that technologies developed 
+are usable by all stakeholders.
+
+DOI: 10.2196/mededu.5336
+PMCID: PMC5041362
+PMID: 27731861
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+27. JMIR Hum Factors. 2018 May 17;5(2):e21. doi: 10.2196/humanfactors.8905.
+
+Development of a Just-in-Time Adaptive mHealth Intervention for Insomnia: 
+Usability Study.
+
+Pulantara IW(1), Parmanto B(1), Germain A(2).
+
+Author information:
+(1)Health and Rehabilitation Informatics Laboratory, Department of Health 
+Information Management, University of Pittsburgh, Pittsburgh, PA, United States.
+(2)Sleep and Chronobiology Laboratories, Department of Psychiatry, University of 
+Pittsburgh, Pittsburgh, PA, United States.
+
+BACKGROUND: Healthy sleep is a fundamental component of physical and brain 
+health. Insomnia, however, is a prevalent sleep disorder that compromises 
+functioning, productivity, and health. Therefore, developing efficient treatment 
+delivery methods for insomnia can have significant societal and personal health 
+impacts. Cognitive behavioral therapy for insomnia (CBTI) is the recommended 
+first-line treatment of insomnia but access is currently limited for patients, 
+since treatment must occur in specialty sleep clinics, which suffer from an 
+insufficient number of trained clinicians. Smartphone-based interventions offer 
+a promising means for improving the delivery of CBTI. Furthermore, novel 
+features such as real-time monitoring and assessment, personalization, dynamic 
+adaptations of the intervention, and context awareness can enhance treatment 
+personalization and effectiveness, and reduce associated costs. Ultimately, this 
+"Just in Time Adaptive Intervention" for insomnia-an intervention approach that 
+is acceptable to patients and clinicians, and is based on mobile health 
+(mHealth) platform and tools-can significantly improve patient access and 
+clinician delivery of evidence-based insomnia treatments.
+OBJECTIVE: This study aims to develop and assess the usability of a Just in Time 
+Adaptive Intervention application platform called iREST ("interactive Resilience 
+Enhancing Sleep Tactics") for use in behavioral insomnia interventions. iREST 
+can be used by both patients and clinicians.
+METHODS: The development of iREST was based on the Iterative and Incremental 
+Development software development model. Requirement analysis was based on the 
+case study's description, workflow and needs, clinician inputs, and a previously 
+conducted BBTI military study/implementation of the Just in Time Adaptive 
+Intervention architecture. To evaluate the usability of the iREST mHealth tool, 
+a pilot usability study was conducted. Additionally, this study explores the 
+feasibility of using an off-the-shelf wearable device to supplement the 
+subjective assessment of patient sleep patterns.
+RESULTS: The iREST app was developed from the mobile logical architecture of 
+Just in Time Adaptive Intervention. It consists of a cross-platform smartphone 
+app, a clinician portal, and secure 2-way communications platform between the 
+app and the portal. The usability study comprised 19 Active Duty Service Members 
+and Veterans between the ages of 18 and 60. Descriptive statistics based on 
+in-app questionnaires indicate that on average, 12 (mean 12.23, SD 8.96) unique 
+devices accessed the clinician portal per day for more than two years, while the 
+app was rated as "highly usable", achieving a mean System Usability Score score 
+of 85.74 (SD 12.37), which translates to an adjective rating of "Excellent". The 
+participants also gave high scores on "ease of use and learnability" with an 
+average score of 4.33 (SD 0.65) on a scale of 1 to 5.
+CONCLUSIONS: iREST provides a feasible platform for the implementation of Just 
+in Time Adaptive Intervention in mHealth-based and remote intervention settings. 
+The system was rated highly usable and its cross-platformness made it readily 
+implemented within the heavily segregated smartphone market. The use of 
+wearables to track sleep is promising; yet the accuracy of this technology needs 
+further improvement. Ultimately, iREST demonstrates that mHealth-based Just in 
+Time Adaptive Intervention is not only feasible, but also works effectively.
+
+©I Wayan Pulantara, Bambang Parmanto, Anne Germain. Originally published in JMIR 
+Human Factors (http://humanfactors.jmir.org), 17.05.2018.
+
+DOI: 10.2196/humanfactors.8905
+PMCID: PMC5981058
+PMID: 29773529
+
+Conflict of interest statement: Conflicts of Interest: None declared
+
+
+28. J Med Syst. 2018 May 8;42(6):113. doi: 10.1007/s10916-018-0968-8.
+
+Towards a Clinical Trial Protocol to Evaluate Health Information Systems: 
+Evaluation of a Computerized System for Monitoring Tuberculosis from a Patient 
+Perspective in Brazil.
+
+Crepaldi NY(1)(2), de Lima IB(3)(4), Vicentine FB(5), Rodrigues LML(5), Sanches 
+TLM(3), Ruffino-Netto A(5), Alves D(5)(3), Rijo RPCL(3)(6)(7)(8).
+
+Author information:
+(1)Department of Social Medicine, Ribeirão Preto Medical School, University of 
+São Paulo, Ribeirão Preto, 14049-900, Brazil. nathaliayc@gmail.com.
+(2)Intelligence Laboratory in Health, Ribeirão Preto Medical School, University 
+of São Paulo, Ribeirão Preto, 14049-900, Brazil. nathaliayc@gmail.com.
+(3)Intelligence Laboratory in Health, Ribeirão Preto Medical School, University 
+of São Paulo, Ribeirão Preto, 14049-900, Brazil.
+(4)Ribeirão Preto College of Nursing, University of São Paulo, Ribeirão Preto, 
+14040-902, Brazil.
+(5)Department of Social Medicine, Ribeirão Preto Medical School, University of 
+São Paulo, Ribeirão Preto, 14049-900, Brazil.
+(6)School of Technology and Management, Polytechnic Institute of Leiria, 
+2411-901, Leiria, Portugal.
+(7)INESCC - Institute for Systems and Computers Engineering at Coimbra, 
+3000-033, Coimbra, Portugal.
+(8)CINTESIS - Center for Research in Health Technologies and Information 
+Polytechnic Institute of Leiria, 4200-450, Porto, Portugal.
+
+Assessment of health information systems consider different aspects of the 
+system itself. They focus or on the professional who will use the software or on 
+its usability or on the software engineering metrics or on financial and 
+managerial issues. The existent approaches are very resources consuming, 
+disconnected, and not standardized. As the software becomes more critical in the 
+health organizations and in patients, becoming used as a medical device or a 
+medicine, there is an urgency to identify tools and methods that can be applied 
+in the development process. The present work is one of the steps of a broader 
+study to identify standardized protocols to evaluate the health information 
+systems as medicines and medical devices are evaluated by clinical trials. The 
+goal of the present work was to evaluate the effect of the introduction of an 
+information system for monitoring tuberculosis treatment (SISTB) in a Brazilian 
+municipality from the patients' perspective. The Patient Satisfaction 
+Questionnaire and the Hospital Consumer Assessment of Healthcare Providers and 
+Systems were answered by the patients before and after the SISTB introduction, 
+for comparison. Patients from an outpatient clinic, formed the control group, 
+that is, at this site was not implanted the SISTB. Descriptive statistics and 
+mixed effects model were used for data analysis. Eighty-eight interviews were 
+conducted in the study. The questionnaire's results presented better averages 
+after the system introduction but were not considered statistically significant. 
+Therefore, it was not possible to associate system implantation with improved 
+patient satisfaction. The HIS evaluation need be complete, the technical and 
+managerial evaluation, the safety, the impact on the professionals and direct 
+and/or indirect impact on patients are important. Developing the right tools and 
+methods that can evaluate the software in its entirety, from the beginning of 
+the development cycle with a normalized scale, are needed.
+
+DOI: 10.1007/s10916-018-0968-8
+PMID: 29737418 [Indexed for MEDLINE]
+
+
+29. J Multidiscip Healthc. 2018 Jan 9;11:21-37. doi: 10.2147/JMDH.S150976. 
+eCollection 2018.
+
+Human-centered design of a personal health record system for metabolic syndrome 
+management based on the ISO 9241-210:2010 standard.
+
+Farinango CD(1), Benavides JS(1), Cerón JD(1), López DM(1), Álvarez RE(2).
+
+Author information:
+(1)Telematics Engineering Research Group, Faculty of Electronics and 
+Telecommunications Engineering, Universidad del Cauca, Popayán, Colombia.
+(2)Human Genetics Research Group, Faculty of Health Sciences, Universidad del 
+Cauca, Popayán, Colombia.
+
+BACKGROUND: Previous studies have demonstrated the effectiveness of information 
+and communication technologies to support healthy lifestyle interventions. In 
+particular, personal health record systems (PHR-Ss) empower self-care, essential 
+to support lifestyle changes. Approaches such as the user-centered design (UCD), 
+which is already a standard within the software industry (ISO 9241-210:2010), 
+provide specifications and guidelines to guarantee user acceptance and quality 
+of eHealth systems. However, no single PHR-S for metabolic syndrome (MS) 
+developed following the recommendations of the ISO 9241-210:2010 specification 
+has been found in the literature.
+OBJECTIVE: The aim of this study was to describe the development of a PHR-S for 
+the management of MS according to the principles and recommendations of the ISO 
+9241-210 standard.
+METHODS: The proposed PHR-S was developed using a formal software development 
+process which, in addition to the traditional activities of any software 
+process, included the principles and recommendations of the ISO 9241-210 
+standard. To gather user information, a survey sample of 1,187 individuals, 
+eight interviews, and a focus group with seven people were performed. Throughout 
+five iterations, three prototypes were built. Potential users of each system 
+evaluated each prototype. The quality attributes of efficiency, effectiveness, 
+and user satisfaction were assessed using metrics defined in the ISO/IEC 25022 
+standard.
+RESULTS: The following results were obtained: 1) a technology profile from 1,187 
+individuals at risk for MS from the city of Popayan, Colombia, identifying that 
+75.2% of the people use the Internet and 51% had a smartphone; 2) a PHR-S to 
+manage MS developed (the PHR-S has the following five main functionalities: 
+record the five MS risk factors, share these measures with health care 
+professionals, and three educational modules on nutrition, stress management, 
+and a physical activity); and 3) usability tests on each prototype obtaining the 
+following results: 100% effectiveness, 100% efficiency, and 84.2 points in the 
+system usability scale.
+CONCLUSION: The software development methodology used was based on the ISO 
+9241-210 standard, which allowed the development team to maintain a focus on 
+user's needs and requirements throughout the project, which resulted in an 
+increased satisfaction and acceptance of the system. Additionally, the 
+establishment of a multidisciplinary team allowed the application of 
+considerations not only from the disciplines of software engineering and health 
+sciences but also from other disciplines such as graphical design and media 
+communication. Finally, usability testing allowed the observation of flaws in 
+the designs, which helped to improve the solution.
+
+DOI: 10.2147/JMDH.S150976
+PMCID: PMC5767088
+PMID: 29386903
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+30. Int J Med Inform. 2017 Jan;97:98-108. doi: 10.1016/j.ijmedinf.2016.10.001. Epub 
+2016 Oct 6.
+
+A novel concept for integrating and delivering health information using a 
+comprehensive digital dashboard: An analysis of healthcare professionals' 
+intention to adopt a new system and the trend of its real usage.
+
+Lee K(1), Jung SY(2), Hwang H(3), Yoo S(4), Baek HY(5), Baek RM(6), Kim S(7).
+
+Author information:
+(1)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Family Medicine, Seoul National University 
+Bundang Hospital, Seongnam, South Korea; Department of Orthopedics, Seoul 
+National University Bundang Hospital, Seongnam, South Korea. Electronic address: 
+chrisruga@snubh.org.
+(2)Department of Family Medicine, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea. Electronic address: imsyjung@gmail.com.
+(3)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea; Department of Pediatrics, Seoul 
+National University Bundang Hospital, Seongnam, South Korea. Electronic address: 
+neuroandy@snubh.org.
+(4)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea. Electronic address: yoosoo0@snubh.org.
+(5)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea. Electronic address: bhy210@snubh.org.
+(6)Department of Plastic Surgery, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea. Electronic address: ronbaek@snu.ac.kr.
+(7)Center for Medical Informatics, Seoul National University Bundang Hospital, 
+Seongnam, South Korea; Department of Orthopedics, Seoul National University 
+Bundang Hospital, Seongnam, South Korea. Electronic address: kims@snubh.org.
+
+OBJECTIVE: To introduce a new concept of medical dashboard system called 
+BESTBoard. Such a system was implemented in all wards in a tertiary academic 
+hospital to explore the development process, core designs, functions, usability 
+and feasibility.
+METHODS: The task-force team made user interface designs for 6 months based on a 
+need analysis. Hardware configuration and software development was carried out 
+for 3 months. We conducted a survey of 383 physicians and nurses to determine 
+the usability and feasibility of the system.
+RESULTS: In March 2012, the system was installed in all wards, including the 
+intensive care units, emergency rooms, operation rooms, and even delivery rooms. 
+Healthcare professionals had access to all information of EHRs optimized for a 
+large 55-inch touchscreen. The satisfaction rate of BESTBoard users was high, 
+with a mean of 3.3 points. Voluntary users tended to consider BESTBoard as a 
+good system that is useful for team round visits, interdisciplinary team 
+approach, and collecting the status of the hospital rooms. Elderly users didn't 
+tend to think of BESTBoard as a useful tool for interdisciplinary team approach 
+and collecting the status of the hospital rooms. Greater expectations regarding 
+work performance affected the users' attitudes positively. A positive attitude 
+toward using the system resulted in consistent real usage and health care 
+professionals' satisfaction with the new dashboard system.
+CONCLUSIONS: A new concept of hospital dashboard system proved to be feasible 
+and useful in delivering health information to healthcare professionals. A 
+positive attitude and an expectation regarding work performance were important 
+factors for intention to use the system. This finding can serve for developing 
+new systems to present health information effectively. Further studies will be 
+needed to evaluate the extent to which BESTBoard can have a positive impact on 
+clinical care outcomes and work performance.
+
+Copyright Â© 2016. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.ijmedinf.2016.10.001
+PMID: 27919400 [Indexed for MEDLINE]
+
+
+31. Int J Med Inform. 2014 Mar;83(3):170-9. doi: 10.1016/j.ijmedinf.2013.11.004. 
+Epub 2013 Dec 14.
+
+Regenstrief Institute's Medical Gopher: a next-generation homegrown electronic 
+medical record system.
+
+Duke JD(1), Morea J(2), Mamlin B(2), Martin DK(3), Simonaitis L(2), Takesue 
+BY(3), Dixon BE(4), Dexter PR(2).
+
+Author information:
+(1)Regenstrief Institute Inc., Indianapolis, IN, USA; Indiana University School 
+of Medicine, Indianapolis, IN, USA; School of Informatics and Computing, IUPUI, 
+Indianapolis, IN, USA; Wishard/Eskenazi Health Services, Indianapolis, IN, USA. 
+Electronic address: jonduke@regenstrief.org.
+(2)Regenstrief Institute Inc., Indianapolis, IN, USA; Indiana University School 
+of Medicine, Indianapolis, IN, USA; Wishard/Eskenazi Health Services, 
+Indianapolis, IN, USA.
+(3)Regenstrief Institute Inc., Indianapolis, IN, USA; Indiana University School 
+of Medicine, Indianapolis, IN, USA.
+(4)Regenstrief Institute Inc., Indianapolis, IN, USA; Center for Implementing 
+Evidence-Based Practice, Department of Veterans Affairs, Health Services 
+Research & Development Service, Indianapolis, IN, USA; School of Informatics and 
+Computing, IUPUI, Indianapolis, IN, USA.
+
+OBJECTIVE: Regenstrief Institute developed one of the seminal computerized order 
+entry systems, the Medical Gopher, for implementation at Wishard Hospital nearly 
+three decades ago. Wishard Hospital and Regenstrief remain committed to 
+homegrown software development, and over the past 4 years we have fully rebuilt 
+Gopher with an emphasis on usability, safety, leveraging open source 
+technologies, and the advancement of biomedical informatics research. Our 
+objective in this paper is to summarize the functionality of this new system and 
+highlight its novel features.
+MATERIALS AND METHODS: Applying a user-centered design process, the new Gopher 
+was built upon a rich-internet application framework using an agile development 
+process. The system incorporates order entry, clinical documentation, result 
+viewing, decision support, and clinical workflow. We have customized its use for 
+the outpatient, inpatient, and emergency department settings.
+RESULTS: The new Gopher is now in use by over 1100 users a day, including an 
+average of 433 physicians caring for over 3600 patients daily. The system 
+includes a wizard-like clinical workflow, dynamic multimedia alerts, and a 
+familiar 'e-commerce'-based interface for order entry. Clinical documentation is 
+enhanced by real-time natural language processing and data review is supported 
+by a rapid chart search feature.
+DISCUSSION: As one of the few remaining academically developed order entry 
+systems, the Gopher has been designed both to improve patient care and to 
+support next-generation informatics research. It has achieved rapid adoption 
+within our health system and suggests continued viability for homegrown systems 
+in settings of close collaboration between developers and providers.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijmedinf.2013.11.004
+PMID: 24373714 [Indexed for MEDLINE]
+
+
+32. JMIR Serious Games. 2018 Jan 16;6(1):e2. doi: 10.2196/games.8881.
+
+User-Centered Design of Learn to Quit, a Smoking Cessation Smartphone App for 
+People With Serious Mental Illness.
+
+Vilardaga R(1), Rizo J(1), Zeng E(2), Kientz JA(2), Ries R(3), Otis C(4), 
+Hernandez K(1).
+
+Author information:
+(1)Center for Addiction Science and Technology, Psychiatry and Behavioral 
+Sciences, Duke University, Durham, NC, United States.
+(2)Design Use Build, Department of Human Centered Design and Engineering, 
+University of Washington, Seattle, WA, United States.
+(3)Department of Psychiatry and Behavioral Sciences, University of Washington, 
+Seattle, WA, United States.
+(4)Chad Otis Illustration & Design, Seattle, WA, United States.
+
+BACKGROUND: Smoking rates in the United States have been reduced in the past 
+decades to 15% of the general population. However, up to 88% of people with 
+psychiatric symptoms still smoke, leading to high rates of disease and 
+mortality. Therefore, there is a great need to develop smoking cessation 
+interventions that have adequate levels of usability and can reach this 
+population.
+OBJECTIVE: The objective of this study was to report the rationale, ideation, 
+design, user research, and final specifications of a novel smoking cessation app 
+for people with serious mental illness (SMI) that will be tested in a 
+feasibility trial.
+METHODS: We used a variety of user-centered design methods and materials to 
+develop the tailored smoking cessation app. This included expert panel guidance, 
+a set of design principles and theory-based smoking cessation content, 
+development of personas and paper prototyping, usability testing of the app 
+prototype, establishment of app's core vision and design specification, and 
+collaboration with a software development company.
+RESULTS: We developed Learn to Quit, a smoking cessation app designed and 
+tailored to individuals with SMI that incorporates the following: (1) 
+evidence-based smoking cessation content from Acceptance and Commitment Therapy 
+and US Clinical Practice Guidelines for smoking cessation aimed at providing 
+skills for quitting while addressing mental health symptoms, (2) a set of 
+behavioral principles to increase retention and comprehension of smoking 
+cessation content, (3) a gamification component to encourage and sustain app 
+engagement during a 14-day period, (4) an app structure and layout designed to 
+minimize usability errors in people with SMI, and (5) a set of stories and 
+visuals that communicate smoking cessation concepts and skills in simple terms.
+CONCLUSIONS: Despite its increasing importance, the design and development of 
+mHealth technology is typically underreported, hampering scientific innovation. 
+This report describes the systematic development of the first smoking cessation 
+app tailored to people with SMI, a population with very high rates of nicotine 
+addiction, and offers new design strategies to engage this population. mHealth 
+developers in smoking cessation and related fields could benefit from a design 
+strategy that capitalizes on the role visual engagement, storytelling, and the 
+systematic application of behavior analytic principles to deliver evidence-based 
+content.
+
+©Roger Vilardaga, Javier Rizo, Emily Zeng, Julie A Kientz, Richard Ries, Chad 
+Otis, Kayla Hernandez. Originally published in JMIR Serious Games 
+(http://games.jmir.org), 16.01.2018.
+
+DOI: 10.2196/games.8881
+PMCID: PMC5790963
+PMID: 29339346
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+33. Int J Med Inform. 2009 Feb;78(2):83-103. doi: 10.1016/j.ijmedinf.2008.05.009. 
+Epub 2008 Jul 14.
+
+A development framework for semantically interoperable health information 
+systems.
+
+Lopez DM(1), Blobel BG.
+
+Author information:
+(1)eHealth Competence Center, University of Regensburg Medical Center, 
+Franz-Josef-Strauss-Allee 11, D-93053 Regensburg, Germany. 
+diego.lopez@ehealth-cc.de
+
+BACKGROUND: Semantic interoperability is a basic challenge to be met for new 
+generations of distributed, communicating and co-operating health information 
+systems (HIS) enabling shared care and e-Health. Analysis, design, 
+implementation and maintenance of such systems and intrinsic architectures have 
+to follow a unified development methodology.
+METHODS: The Generic Component Model (GCM) is used as a framework for modeling 
+any system to evaluate and harmonize state of the art architecture development 
+approaches and standards for health information systems as well as to derive a 
+coherent architecture development framework for sustainable, semantically 
+interoperable HIS and their components. The proposed methodology is based on the 
+Rational Unified Process (RUP), taking advantage of its flexibility to be 
+configured for integrating other architectural approaches such as 
+Service-Oriented Architecture (SOA), Model-Driven Architecture (MDA), ISO 10746, 
+and HL7 Development Framework (HDF).
+RESULTS: Existing architectural approaches have been analyzed, compared and 
+finally harmonized towards an architecture development framework for advanced 
+health information systems.
+CONCLUSION: Starting with the requirements for semantic interoperability derived 
+from paradigm changes for health information systems, and supported in formal 
+software process engineering methods, an appropriate development framework for 
+semantically interoperable HIS has been provided. The usability of the framework 
+has been exemplified in a public health scenario.
+
+DOI: 10.1016/j.ijmedinf.2008.05.009
+PMID: 18621574 [Indexed for MEDLINE]
+
+
+34. Comput Inform Nurs. 2012 Jun;30(6):321-9. doi: 10.1097/NXN.0b013e31824af81f.
+
+Developing iCare v.1.0: an academic electronic health record.
+
+Wyatt TH(1), Li X, Indranoi C, Bell M.
+
+Author information:
+(1)College of Nursing, University of Tennessee, Knoxville, TN 37996-4180, USA. 
+twyatt@utk.edu
+
+An electronic health record application, iCare v.1.0, was developed and tested 
+that allows data input and retrieval while tracking student performance over 
+time. The development and usability testing of iCare v.1.0 followed a rapid 
+prototyping software development and testing model. Once the functionality was 
+tested by engineers, the usability and feasibility testing began with a 
+convenience sample of focus group members including undergraduate and graduate 
+students and faculty. Three focus groups were created, and four subjects 
+participated in each focus group (n = 12). Nielsen's usability heuristics and 
+methods of evaluation were used to evaluate data captured from each focus group. 
+Overall, users wanted a full-featured electronic health record with features 
+that coached or guided users. The earliest versions of iCare v.1.0 did not 
+provide help features and prompts to guide students but were later added. Future 
+versions will incorporate a full-featured help section. The interface and design 
+of iCare v.1.0 are similar to professional electronic health record 
+applications. As a result of this usability study, future versions of iCare will 
+include more robust help features along with advanced reporting and elements 
+specific to specialty populations such as pediatrics and mental health services.
+
+DOI: 10.1097/NXN.0b013e31824af81f
+PMID: 22411413 [Indexed for MEDLINE]
+
+
+35. JMIR Rehabil Assist Technol. 2017 Feb 15;4(1):e2. doi: 10.2196/rehab.6761.
+
+Design and Development of a Telerehabilitation Platform for Patients With 
+Phantom Limb Pain: A User-Centered Approach.
+
+Rothgangel A(1)(2)(3), Braun S(1)(2), Smeets R(2)(4), Beurskens A(1)(2).
+
+Author information:
+(1)Research Centre for Autonomy and Participation of People with a Chronic 
+Illness, Faculty of Health, Zuyd University of Applied Sciences Heerlen, 
+Heerlen, Netherlands.
+(2)CAPHRI School for Public Health and Primary Care, Maastricht University, 
+Maastricht, Netherlands.
+(3)Kaasa health, Duesseldorf, Germany.
+(4)Libra Rehabilitation and Audiology, Eindhoven/Weert, Netherlands.
+
+BACKGROUND: Phantom limb pain is a frequent and persistent problem following 
+amputation. Achieving sustainable favorable effects on phantom limb pain 
+requires therapeutic interventions such as mirror therapy that target 
+maladaptive neuroplastic changes in the central nervous system. Unfortunately, 
+patients' adherence to unsupervised exercises is generally poor and there is a 
+need for effective strategies such as telerehabilitation to support long-term 
+self-management of patients with phantom limb pain.
+OBJECTIVE: The main aim of this study was to describe the user-centered approach 
+that guided the design and development of a telerehabilitation platform for 
+patients with phantom limb pain. We addressed 3 research questions: (1) Which 
+requirements are defined by patients and therapists for the content and 
+functions of a telerehabilitation platform and how can these requirements be 
+prioritized to develop a first prototype of the platform? (2) How can the user 
+interface of the telerehabilitation platform be designed so as to match the 
+predefined critical user requirements and how can this interface be translated 
+into a medium-fidelity prototype of the platform? (3) How do patients with 
+phantom limb pain and their treating therapists judge the usability of the 
+medium-fidelity prototype of the telerehabilitation platform in routine care and 
+how can the platform be redesigned based on their feedback to achieve a 
+high-fidelity prototype?
+METHODS: The telerehabilitation platform was developed using an iterative 
+user-centered design process. In the first phase, a questionnaire followed by a 
+semistructured interview was used to identify the user requirements of both the 
+patients and their physical and occupational therapists, which were then 
+prioritized using a decision matrix. The second phase involved designing the 
+interface of the telerehabilitation platform using design sketches, wireframes, 
+and interface mock-ups to develop a low-fidelity prototype. Heuristic evaluation 
+resulted in a medium-fidelity prototype whose usability was tested in routine 
+care in the final phase, leading to the development of a high-fidelity 
+prototype.
+RESULTS: A total of 7 categories of patient requirements were identified: 
+monitoring, exercise programs, communication, settings, background information, 
+log-in, and general requirements. One additional category emerged for 
+therapists: patient management. Based on these requirements, patient and 
+therapist interfaces for the telerehabilitation platform were developed and 
+redesigned by the software development team in an iterative process, addressing 
+the usability problems that were reported by the users during 4 weeks of field 
+testing in routine care.
+CONCLUSIONS: Our findings underline the importance of involving the users and 
+other stakeholders early and continuously in an iterative design process, as 
+well as the need for clear criteria to identify critical user requirements. A 
+decision matrix is presented that incorporates the views of various stakeholders 
+in systematically rating and prioritizing user requirements. The findings and 
+lessons learned might help health care providers, researchers, software 
+designers, and other stakeholders in designing and evaluating new 
+teletreatments, and hopefully increase the likelihood of user acceptance.
+
+©Andreas Rothgangel, Susy Braun, Rob Smeets, Anna Beurskens. Originally 
+published in JMIR Rehabilitation and Assistive Technology 
+(http://rehab.jmir.org), 15.02.2017.
+
+DOI: 10.2196/rehab.6761
+PMCID: PMC5454587
+PMID: 28582249
+
+Conflict of interest statement: Conflicts of Interest: AR was partially funded 
+by Kaasa health through a grant of the State of North Rhine-Westphalia (NRW, 
+Germany) and the European Union through the NRW Ziel2 Program as a part of the 
+European Fund for Regional Development. Kaasa health is a for-profit 
+organisation, which might commercialise an improved version of the technology 
+described here.
+
+
+36. Version 2. JAMIA Open. 2019 Jul;2(2):272-279. doi: 10.1093/jamiaopen/ooz008. 
+Epub 2019 Apr 13.
+
+Pilot feasibility trial of the MyPEEPS mobile app to reduce sexual risk among 
+young men in 4 cities.
+
+Ignacio M(1), Garofalo R(2), Pearson C(1), Kuhns LM(2), Bruce J(3), Scott Batey 
+D(4), Radix A(5), Belkind U(5), Hidalgo MA(6), Hirshfield S(7), Schnall R(8).
+
+Author information:
+(1)School of Social Work, Indigenous Wellness Research Institute, University of 
+Washington, Seattle, Washington, USA.
+(2)Division of Adolescent Medicine, Ann & Robert H. Lurie Children's Hospital, 
+Northwestern University, Chicago, Illinois, USA.
+(3)Birmingham AIDS Outreach, Birmingham, Alabama, USA.
+(4)Department of Social Work, University of Alabama at Birmingham, Birmingham, 
+Alabama, USA.
+(5)Callen-Lorde Community Health Center, New York, New York, USA.
+(6)Children's Hospital of Los Angeles, Los Angeles, California, USA.
+(7)Department of Medicine, SUNY Downstate Medical Center, Brooklyn, New York, 
+USA.
+(8)School of Nursing, Columbia University, New York, New York, USA.
+
+OBJECTIVES: Our study team adapted the MyPEEPS (Male Youth Pursuing Empowerment, 
+Education, and Prevention around Sexuality) curriculum, an evidence-based human 
+immunodeficiency virus (HIV) prevention intervention, from a face-to-face, 
+group-based intervention to an individual-level mobile responsive web-based 
+intervention to improve HIV risk behaviors in very young men, aged 13-18 years.
+MATERIALS AND METHODS: In adapting the MyPEEPS intervention to mobile app, we 
+used a series of methodologies, including expert panel reviews, weekly team 
+meetings with the software development company, and conducted in-depth 
+interviews with very young men. Following the iterative process, we conducted a 
+6-week pre-post feasibility pilot trial with 40 young men in Birmingham, AL; 
+Chicago, IL; New York City, NY; and Seattle, WA. Primary outcomes of interest 
+were uptake of the app, accessibility and satisfaction.
+RESULTS: Across all 4 sites, 62.5% (25/40) of participants completed all modules 
+in the app in an average of 28.85 (SD 21.69) days. Participants who did not 
+attend to the follow-up visit did not complete any of the app modules. Overall 
+participants reported that the app was easy to use, useful and has the potential 
+to improve their sexual health knowledge and behavior and awareness in risky 
+contexts. Participants also highly rated the app, information and interface 
+quality of the app.
+DISCUSSION: Lessons learned from the pilot included the need for reminder 
+systems and providing anticipatory guidance about Internet connectivity when 
+using the app. These changes will be incorporated into study procedures for our 
+multisite trial.
+CONCLUSION: Overall, participants found the app to be highly usable and have the 
+potential to positively improve their sexual risk behavior.
+
+DOI: 10.1093/jamiaopen/ooz008
+PMCID: PMC6603441
+PMID: 31294422
+
+
+37. EGEMS (Wash DC). 2015 Jun 29;3(2):1136. doi: 10.13063/2327-9214.1136. 
+eCollection 2015.
+
+Back to the Bedside: Developing a Bedside Aid for Concussion and Brain Injury 
+Decisions in the Emergency Department.
+
+Melnick ER(1), Lopez K(2), Hess EP(3), Abujarad F(1), Brandt CA(1), Shiffman 
+RN(1), Post LA(1).
+
+Author information:
+(1)Yale School of Medicine.
+(2)University of Connecticut.
+(3)Mayo Clinic.
+
+CONTEXT: Current information-rich electronic health record (EHR) interfaces 
+require large, high-resolution screens running on desktop computers. This 
+interface compromises the provider's already limited time at the bedside by 
+physically separating the patient from the doctor. The case study presented here 
+describes a patient-centered clinical decision support (CDS) design process that 
+aims to bring the physician back to the bedside by integrating a patient 
+decision aid with CDS for shared use by the patient and provider on a 
+touchscreen tablet computer for deciding whether or not to obtain a CT scan for 
+minor head injury in the emergency department, a clinical scenario that could 
+benefit from CDS but has failed previous implementation attempts.
+CASE DESCRIPTION: This case study follows the user-centered design (UCD) 
+approach to build a bedside aid that is useful and usable, and that promotes 
+shared decision-making between patients and their providers using a tablet 
+computer at the bedside. The patient-centered decision support design process 
+focuses on the prototype build using agile software development, but also 
+describes the following: (1) the requirement gathering phase including 
+triangulated qualitative research (focus groups and cognitive task analysis) to 
+understand current challenges, (2) features for patient education, the 
+physician, and shared decision-making, (3) system architecture and technical 
+requirements, and (4) future plans for formative usability testing and field 
+testing.
+LESSONS LEARNED: We share specific lessons learned and general recommendations 
+from critical insights gained in the patient-centered decision support design 
+process about early stakeholder engagement, EHR integration, external expert 
+feedback, challenges to two users on a single device, project management, and 
+accessibility.
+CONCLUSIONS: Successful implementation of this tool will require seamless 
+integration into the provider's workflow. This protocol can create an effective 
+interface for shared decision-making and safe resource reduction at the bedside 
+in the austere and dynamic clinical environment of the ED and is generalizable 
+for these purposes in other clinical environments as well.
+
+DOI: 10.13063/2327-9214.1136
+PMCID: PMC4537154
+PMID: 26290885
+
+
+38. JMIR Rehabil Assist Technol. 2019 Sep 6;6(2):e13511. doi: 10.2196/13511.
+
+A Collaboration Between Game Developers and Rehabilitation Researchers to 
+Develop a Web-Based App for Persons With Physical Disabilities: Case Study.
+
+Terrill AL(1), MacKenzie JJ(2), Reblin M(3), Einerson J(1), Ferraro J(4), 
+Altizer R(4).
+
+Author information:
+(1)Department of Occupational & Recreational Therapies, University of Utah, Salt 
+Lake City, UT, United States.
+(2)Department of Physical Medicine & Rehabilitation, University of Utah, Salt 
+Lake City, UT, United States.
+(3)Department of Health Outcomes & Behavior, Moffitt Cancer Center, Tampa, FL, 
+United States.
+(4)Entertainment Arts and Engineering, University of Utah, Salt Lake City, UT, 
+United States.
+
+BACKGROUND: Individuals with a disability and their partners, who often provide 
+care, are both at risk for depression and lower quality of life. Mobile health 
+(mHealth) interventions are promising to address barriers to mental health care. 
+Rehabilitation researchers and software development researchers must collaborate 
+effectively with each other and with clinical and patient stakeholders to ensure 
+successful mHealth development.
+OBJECTIVE: This study aimed to aid researchers interested in mHealth software 
+development by describing the collaborative process between a team of 
+rehabilitation researchers, software development researchers, and stakeholders. 
+Thus, we provide a framework (conceptual model) for other teams to replicate to 
+build a Web-based mHealth app for individuals with physical disability.
+METHODS: Rehabilitation researchers, software development researchers, and 
+stakeholders (people with physical disabilities and clinicians) are involved in 
+an iterative software development process. The overall process of developing an 
+mHealth intervention includes initial development meetings and a co-design 
+method called design box, in which the needs and key elements of the app are 
+discussed. On the basis of the objectives outlined, a prototype is developed and 
+goes through scoping iterations with feedback from stakeholders and end users. 
+The prototype is then tested by users to identify technical errors and gather 
+feedback on usability and accessibility.
+RESULTS: Illustrating the overall development process, we present a case study 
+based on our experience developing an app (SupportGroove) for couples coping 
+with spinal cord injury. Examples of how we addressed specific challenges are 
+also included. For example, feedback from stakeholders resulted in development 
+of app features for individuals with limited functional ability. Initial designs 
+lacked accessibility design principles made visible by end users. Solutions 
+included large text, single click, and minimal scrolling to facilitate menu 
+navigation for individuals using eye gaze technology. Prototype testing allowed 
+further refinement and demonstrated high usability and engagement with 
+activities in the app. Qualitative feedback indicated high levels of 
+satisfaction, accessibility, and confidence in potential utility. We also 
+present key lessons learned about working in a collaborative interdisciplinary 
+team.
+CONCLUSIONS: mHealth promises to help overcome barriers to mental health 
+intervention access. However, the development of these interventions can be 
+challenging because of the disparate and often siloed expertise required. By 
+describing the mHealth software development process and illustrating it with a 
+successful case study of rehabilitation researchers, software development 
+researchers, and stakeholders collaborating effectively, our goal is to help 
+other teams avoid challenges we faced and benefit from our lessons learned. 
+Ultimately, good interdisciplinary collaboration will benefit individuals with 
+disabilities and their families.
+
+©Alexandra L Terrill, Justin J MacKenzie, Maija Reblin, Jackie Einerson, Jesse 
+Ferraro, Roger Altizer. Originally published in JMIR Rehabilitation and 
+Assistive Technology (http://rehab.jmir.org), 06.09.2019.
+
+DOI: 10.2196/13511
+PMCID: PMC6789424
+PMID: 31573927
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+39. Telemed J E Health. 2006 Feb;12(1):24-34. doi: 10.1089/tmj.2006.12.24.
+
+Applying heuristic evaluation to improve the usability of a telemedicine system.
+
+Tang Z(1), Johnson TR, Tindall RD, Zhang J.
+
+Author information:
+(1)School of Health Information Sciences, University of Texas Health Science 
+Center at Houston, Houston, Texas 77030, USA. Zhihua.Tang@uth.tmc.edu
+
+The development of a telemedicine system should not only take advantage of 
+technological advances but also pay close attention to users and the human 
+issues involved. In this paper we examine the utility of heuristic evaluation in 
+improving the usability of a digital emergency medical services (EMS) system 
+equipped on an ambulance. The digital EMS system used advanced communication 
+technologies to help remotely located trauma specialists gain access to patient 
+data in real-time and direct life-saving measures in a timely fashion. To 
+improve its usability, three experts inspected prototypes of the system 
+according to 14 software usability heuristics. The analyses revealed information 
+on the prevalence, severity, and nature of heuristic violations in the user 
+interface design. The results were subsequently utilized to guide the iterative 
+software design process. A comparison between two consecutive prototypes showed 
+that the second design had only half as many usability violations as the first 
+prototype and had considerable improvement in a number of usability heuristic 
+categories. The validity of heuristic evaluation was examined in an ethnographic 
+study of paramedics using a prototype of the system in their work environment. 
+Users' task performances partially verified heuristic evaluation results. 
+However, they also revealed problems that were not identified in heuristic 
+evaluation but only became prominent during field observation. In conclusion, we 
+argue that usability should be given high priority in the development of a 
+telemedicine system, and that heuristic evaluation can be an effective and 
+efficient way to identify usability problems in the early stage of software 
+development.
+
+DOI: 10.1089/tmj.2006.12.24
+PMID: 16478410 [Indexed for MEDLINE]
+
+
+40. Appl Clin Inform. 2016 Jan 13;7(1):22-32. doi: 10.4338/ACI-2015-07-CR-0091. 
+eCollection 2016.
+
+Software Prototyping: A Case Report of Refining User Requirements for a Health 
+Information Exchange Dashboard.
+
+Nelson SD(1), Del Fiol G(2), Hanseler H(2), Crouch BI(2), Cummins MR(2).
+
+Author information:
+(1)Vanderbilt University Medical Center , Nashville, TN, USA.
+(2)University of Utah , Salt Lake City, UT, USA.
+
+BACKGROUND: Health information exchange (HIE) between Poison Control Centers 
+(PCCs) and Emergency Departments (EDs) could improve care of poisoned patients. 
+However, PCC information systems are not designed to facilitate HIE with EDs; 
+therefore, we are developing specialized software to support HIE within the 
+normal workflow of the PCC using user-centered design and rapid prototyping.
+OBJECTIVE: To describe the design of an HIE dashboard and the refinement of user 
+requirements through rapid prototyping.
+METHODS: Using previously elicited user requirements, we designed low-fidelity 
+sketches of designs on paper with iterative refinement. Next, we designed an 
+interactive high-fidelity prototype and conducted scenario-based usability tests 
+with end users. Users were asked to think aloud while accomplishing tasks 
+related to a case vignette. After testing, the users provided feedback and 
+evaluated the prototype using the System Usability Scale (SUS).
+RESULTS: Survey results from three users provided useful feedback that was then 
+incorporated into the design. After achieving a stable design, we used the 
+prototype itself as the specification for development of the actual software. 
+Benefits of prototyping included having 1) subject-matter experts heavily 
+involved with the design; 2) flexibility to make rapid changes, 3) the ability 
+to minimize software development efforts early in the design stage; 4) rapid 
+finalization of requirements; 5) early visualization of designs; 6) and a 
+powerful vehicle for communication of the design to the programmers. Challenges 
+included 1) time and effort to develop the prototypes and case scenarios; 2) no 
+simulation of system performance; 3) not having all proposed functionality 
+available in the final product; and 4) missing needed data elements in the PCC 
+information system.
+
+DOI: 10.4338/ACI-2015-07-CR-0091
+PMCID: PMC4817332
+PMID: 27081404 [Indexed for MEDLINE]
+
+
+41. J Med Internet Res. 2014 Jul 30;16(7):e181. doi: 10.2196/jmir.3376.
+
+Purple: a modular system for developing and deploying behavioral intervention 
+technologies.
+
+Schueller SM(1), Begale M, Penedo FJ, Mohr DC.
+
+Author information:
+(1)Center for Behavioral Intervention Technologies, Department of Preventive 
+Medicine, Northwestern University, Chicago, IL, United States.
+
+The creation, deployment, and evaluation of Web-based and mobile-based 
+applications for health, mental health, and wellness within research settings 
+has tended to be siloed, with each research group developing their own systems 
+and features. This has led to technological features and products that are not 
+sharable across research teams, thereby limiting collaboration, reducing the 
+speed of dissemination, and raising the bar for entry into this area of 
+research. This paper provides an overview of Purple, an extensible, modular, and 
+repurposable system created for the development of Web-based and mobile-based 
+applications for health behavior change. Purple contains features required to 
+construct applications and to manage and evaluate research trials using these 
+applications. Core functionality of Purple includes elements that support user 
+management, content authorship, content delivery, and data management. We 
+discuss the history and development of the Purple system guided by the rationale 
+of producing a system that allows greater collaboration and understanding across 
+research teams interested in investigating similar questions and using similar 
+methods. Purple provides a useful tool to meet the needs of stakeholders 
+involved in the creation, provision, and usage of eHealth and mHealth 
+applications. Housed in a non-profit, academic institution, Purple also offers 
+the potential to facilitate the diffusion of knowledge across the research 
+community and improve our capacity to deliver useful and usable applications 
+that support the behavior change of end users.
+
+DOI: 10.2196/jmir.3376
+PMCID: PMC4129186
+PMID: 25079298 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+42. Qual Life Res. 2010 Jun;19(5):677-85. doi: 10.1007/s11136-010-9634-4. Epub 2010 
+Mar 21.
+
+The development of a clinical outcomes survey research application: Assessment 
+Center.
+
+Gershon R(1), Rothrock NE, Hanrahan RT, Jansky LJ, Harniss M, Riley W.
+
+Author information:
+(1)Department of Medical Social Sciences, Northwestern University, 625 North 
+Michigan Avenue, Suite 2700, Chicago, IL 60611, USA. gershon@northwestern.edu
+
+INTRODUCTION: The National Institutes of Health sponsored Patient-Reported 
+Outcome Measurement Information System (PROMIS) aimed to create item banks and 
+computerized adaptive tests (CATs) across multiple domains for individuals with 
+a range of chronic diseases.
+PURPOSE: Web-based software was created to enable a researcher to create 
+study-specific Websites that could administer PROMIS CATs and other instruments 
+to research participants or clinical samples. This paper outlines the process 
+used to develop a user-friendly, free, Web-based resource (Assessment Center) 
+for storage, retrieval, organization, sharing, and administration of 
+patient-reported outcomes (PRO) instruments.
+METHODS: Joint Application Design (JAD) sessions were conducted with 
+representatives from numerous institutions in order to supply a general wish 
+list of features. Use Cases were then written to ensure that end user 
+expectations matched programmer specifications. Program development included 
+daily programmer "scrum" sessions, weekly Usability Acceptability Testing (UAT) 
+and continuous Quality Assurance (QA) activities pre- and post-release.
+RESULTS: Assessment Center includes features that promote instrument development 
+including item histories, data management, and storage of statistical analysis 
+results.
+CONCLUSIONS: This case study of software development highlights the collection 
+and incorporation of user input throughout the development process. Potential 
+future applications of Assessment Center in clinical research are discussed.
+
+DOI: 10.1007/s11136-010-9634-4
+PMCID: PMC3686503
+PMID: 20306332 [Indexed for MEDLINE]
+
+
+43. JMIR Public Health Surveill. 2020 May 6;6(2):e19297. doi: 10.2196/19297.
+
+Agile Requirements Engineering and Software Planning for a Digital Health 
+Platform to Engage the Effects of Isolation Caused by Social Distancing: Case 
+Study.
+
+Meinert E(1)(2), Milne-Ives M(1), Surodina S(3), Lam C(1)(4).
+
+Author information:
+(1)Digitally Enabled PrevenTative Health Research Group, Department of 
+Paediatrics, University of Oxford, Oxford, United Kingdom.
+(2)Department of Primary Care and Public Health, Imperial College London, 
+London, United Kingdom.
+(3)Skein Ltd, London, United Kingdom.
+(4)Institute of Biomedical Engineering, University of Oxford, Oxford, United 
+Kingdom.
+
+BACKGROUND: Social distancing and shielding measures have been put in place to 
+reduce social interaction and slow the transmission of the coronavirus disease 
+(COVID-19). For older people, self-isolation presents particular challenges for 
+mental health and social relationships. As time progresses, continued social 
+distancing could have a compounding impact on these concerns.
+OBJECTIVE: This project aims to provide a tool for older people and their 
+families and peers to improve their well-being and health during and after 
+regulated social distancing. First, we will evaluate the tool's feasibility, 
+acceptability, and usability to encourage positive nutrition, enhance physical 
+activity, and enable virtual interaction while social distancing. Second, we 
+will be implementing the app to provide an online community to assist families 
+and peer groups in maintaining contact with older people using goal setting. 
+Anonymized data from the app will be aggregated with other real-world data 
+sources to develop a machine learning algorithm to improve the identification of 
+patients with COVID-19 and track for real time use by health systems.
+METHODS: Development of this project is occurring at the time of publication, 
+and therefore, a case study design was selected to provide a systematic means of 
+capturing software engineering in progress. The app development framework for 
+software design was based on agile methods. The evaluation of the app's 
+feasibility, acceptability and usability shall be conducted using Public Health 
+England's guidance on evaluating digital health products, Bandura's model of 
+health promotion, the Reach Effectiveness Adoption Implementation Maintenance 
+(RE-AIM) framework and the Nonadoption, Abandonment and Challenges to the 
+Scale-up, Spread and Suitability (NASSS) framework.
+RESULTS: Making use of a pre-existing software framework for health behavior 
+change, a proof of concept was developed, and a multistage app development and 
+deployment for the solution was created. Grant submissions to fund the project 
+and study execution have been sought at the time of publication, and 
+prediscovery iteration of the solution has begun. Ethical approval for a 
+feasibility study design is being sought.
+CONCLUSIONS: This case study lays the foundations for future app development to 
+combat mental and societal issues arising from social distancing measures. The 
+app will be tested and evaluated in future studies to allow continuous 
+improvement of the app. This novel contribution will provide an evidence-based 
+exemplar for future app development in the space of social isolation and 
+loneliness.
+
+©Edward Meinert, Madison Milne-Ives, Svitlana Surodina, Ching Lam. Originally 
+published in JMIR Public Health and Surveillance (http://publichealth.jmir.org), 
+06.05.2020.
+
+DOI: 10.2196/19297
+PMCID: PMC7205031
+PMID: 32348293 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+44. J Cogn Eng Decis Mak. 2016 Mar;10(1):74-90. doi: 10.1177/1555343416630875.
+
+Designing Colorectal Cancer Screening Decision Support: A Cognitive Engineering 
+Enterprise.
+
+Militello LG(1), Saleem JJ(2), Borders MR(1), Sushereba CE(1), Haverkamp D(3), 
+Wolf SP(4), Doebbeling BN(5).
+
+Author information:
+(1)Applied Decision Science, Dayton, Ohio.
+(2)University of Louisville, Louisville, Kentucky.
+(3)Centers for Disease Control and Prevention, Albuquerque, New Mexico.
+(4)Applied Decision Science, Cincinnati, Ohio.
+(5)Arizona State University, Phoenix.
+
+Adoption of clinical decision support has been limited. Important barriers 
+include an emphasis on algorithmic approaches to decision support that do not 
+align well with clinical work flow and human decision strategies, and the 
+expense and challenge of developing, implementing, and refining decision support 
+features in existing electronic health records (EHRs). We applied 
+decision-centered design to create a modular software application to support 
+physicians in managing and tracking colorectal cancer screening. Using 
+decision-centered design facilitates a thorough understanding of cognitive 
+support requirements from an end user perspective as a foundation for design. In 
+this project, we used an iterative design process, including ethnographic 
+observation and cognitive task analysis, to move from an initial design concept 
+to a working modular software application called the Screening & Surveillance 
+App. The beta version is tailored to work with the Veterans Health 
+Administration's EHR Computerized Patient Record System (CPRS). Primary care 
+providers using the beta version Screening & Surveillance App more accurately 
+answered questions about patients and found relevant information more quickly 
+compared to those using CPRS alone. Primary care providers also reported reduced 
+mental effort and rated the Screening & Surveillance App positively for 
+usability.
+
+DOI: 10.1177/1555343416630875
+PMCID: PMC4784691
+PMID: 26973441
+
+
+45. AMIA Annu Symp Proc. 2010 Nov 13;2010:702-6.
+
+A Rapid Usability Evaluation (RUE) Method for Health Information Technology.
+
+Russ AL(1), Baker DA, Fahner WJ, Milligan BS, Cox L, Hagg HK, Saleem JJ.
+
+Author information:
+(1)VA HSR&D Center on Implementing Evidence-Based Practice (CIEBP), Roudebush VA 
+Medical Center (VAMC), Indianapolis, IN;
+
+Usability testing can help generate design ideas to enhance the quality and 
+safety of health information technology. Despite these potential benefits, few 
+healthcare organizations conduct systematic usability testing prior to software 
+implementation. We used a Rapid Usability Evaluation (RUE) method to apply 
+usability testing to software development at a major VA Medical Center. We 
+describe the development of the RUE method, provide two examples of how it was 
+successfully applied, and discuss key insights gained from this work. Clinical 
+informaticists with limited usability training were able to apply RUE to improve 
+software evaluation and elected to continue to use this technique. RUE methods 
+are relatively simple, do not require advanced training or usability software, 
+and should be easy to adopt. Other healthcare organizations may be able to 
+implement RUE to improve software effectiveness, efficiency, and safety.
+
+PMCID: PMC3041446
+PMID: 21347069 [Indexed for MEDLINE]
+
+
+46. J Biomed Inform. 2017 Feb;66:204-213. doi: 10.1016/j.jbi.2017.01.009. Epub 2017 
+Jan 17.
+
+User-centered design improves the usability of drug-drug interaction alerts: 
+Experimental comparison of interfaces.
+
+Luna DR(1), Rizzato Lede DA(2), Otero CM(2), Risk MR(3), González Bernaldo de 
+Quirós F(2).
+
+Author information:
+(1)Health Informatics Department, Hospital Italiano de Buenos Aires, Argentina; 
+Instituto Tecnológico de Buenos Aires (ITBA), Argentina. Electronic address: 
+daniel.luna@hospitalitaliano.org.ar.
+(2)Health Informatics Department, Hospital Italiano de Buenos Aires, Argentina.
+(3)Instituto Tecnológico de Buenos Aires (ITBA), Argentina; Consejo Nacional de 
+Investigaciones Científicas y Técnicas (CONICET), Argentina.
+
+Clinical Decision Support Systems can alert health professionals about drug 
+interactions when they prescribe medications. The Hospital Italiano de Buenos 
+Aires in Argentina developed an electronic health record with drug-drug 
+interaction alerts, using traditional software engineering techniques and 
+requirements. Despite enhancing the drug-drug interaction knowledge database, 
+the alert override rate of this system was very high. We redesigned the alert 
+system using user-centered design (UCD) and participatory design techniques to 
+enhance the drug-drug interaction alert interface. This paper describes the 
+methodology of our UCD. We used crossover method with realistic, clinical 
+vignettes to compare usability of the standard and new software versions in 
+terms of efficiency, effectiveness, and user satisfaction. Our study showed 
+that, compared to the traditional alert system, the UCD alert system was more 
+efficient (alerts faster resolution), more effective (tasks completed with fewer 
+errors), and more satisfying. These results indicate that UCD techniques that 
+follow ISO 9241-210 can generate more usable alerts than traditional design.
+
+Copyright Â© 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbi.2017.01.009
+PMID: 28108211 [Indexed for MEDLINE]
+
+
+47. J Pediatr (Rio J). 2020 Feb 19:S0021-7557(19)30398-5. doi: 
+10.1016/j.jped.2019.12.003. Online ahead of print.
+
+Continuing education in the child health handbook: an educational software for 
+primary care(1).
+
+Barbosa CP(1), Belian RB(2), de Araújo CMT(1).
+
+Author information:
+(1)Universidade Federal de Pernambuco (UFPE), Programa de Pós-Graduação em Saúde 
+da Criança e do Adolescente, Recife, PE, Brazil.
+(2)Universidade Federal de Pernambuco (UFPE), Programa de Pós-Graduação em Saúde 
+da Criança e do Adolescente, Recife, PE, Brazil. Electronic address: 
+rosalie.belian@ufpe.br.
+
+OBJECTIVE: To present, the process of development and evaluation of an 
+educational software on the Child Health Handbook proposed for the continuing 
+education of primary care nurses and physicians.
+METHODS: Quantitative study of methodological development. For software 
+development, the following steps were followed: definition of objectives; 
+determination of the target audience; choice of pedagogical and theoretical 
+reference for content; content selection and structuring; software development 
+and evaluation by experts (five nurses and four physicians). All responded to an 
+instrument that included four domains: pedagogical; content; functionality; 
+system presentation and usability. The evaluation criteria were arranged on a 
+Likert-type scale. The percentage of agreement and Content Validity Index were 
+used for the quantitative analysis of the degree of agreement, considering a 
+Content Validity Index cutoff point equal to 0.80.
+RESULTS: The overall agreement index, calculated by the arithmetic mean of the 
+Contents Validity Index of the evaluated domains, was 0.96, with scores ranging 
+from 0.90 to 1.00. The average percentage of agreement of the experts per domain 
+was 92.86%, with lower agreement in the content (80.95%), presentation, and 
+usability (90.48%) domains. 100% of percentage of agreement was observed in the 
+pedagogical and functionality domains among the evaluated specialists.
+CONCLUSION: The percentage of agreement, Content Validity Index and overall 
+agreement index of the Child Health Handbook educational software in the context 
+of primary care disclosed the software adequacy as an educational resource for 
+continuing education of primary care nurses and physicians. Considering the 
+assessed dimensions, it can also be used by other health professionals and 
+undergraduate students.
+
+Copyright © 2020. Published by Elsevier Editora Ltda.
+
+DOI: 10.1016/j.jped.2019.12.003
+PMID: 32084441
+
+
+48. Jt Comm J Qual Patient Saf. 2013 Mar;39(3):129-35. doi: 
+10.1016/s1553-7250(13)39019-9.
+
+Enhancing electronic health record usability in pediatric patient care: a 
+scenario-based approach.
+
+Patterson ES(1), Zhang J, Abbott P, Gibbons MC, Lowry SZ, Quinn MT, Ramaiah M, 
+Brick D.
+
+Author information:
+(1)Division of Health Information Management and Systems, School of Health and 
+Rehabilitation Sciences, College of Medicine, Ohio State University, Columbus, 
+USA. Emily.Patterson2@osumc.edu
+
+BACKGROUND: Usability of electronic health records (EHRs) is an important factor 
+affecting patient safety and the EHR adoption rate for both adult and pediatric 
+care providers. A panel of interdisciplinary experts (the authors) was convened 
+by the National Institute of Standards and Technology to generate consensus 
+recommendations to improve EHR usefulness, usability, and patient safety when 
+supporting pediatric care, with a focus on critical user interactions.
+METHODS: The panel members represented expertise in the disciplines of human 
+factors engineering (HFE), usability, informatics, and pediatrics in ambulatory 
+care and pediatric intensive care. An iterative, scenario-based approach was 
+used to identify unique considerations in pediatric care and relevant human 
+factors concepts. A draft of the recommendations were reviewed by invited 
+experts in pediatric informatics, emergency medicine, neonatology, pediatrics, 
+HFE, nursing, usability engineering, and software development and 
+implementation.
+RECOMMENDATIONS: Recommendations for EHR developers, small-group pediatric 
+medical practices, and children's hospitals were identified out of the original 
+54 recommendations, in terms of nine critical user interaction categories: 
+patient identification, medications, alerts, growth chart, vaccinations, labs, 
+newborn care, privacy, and radiology.
+CONCLUSION: Pediatric patient care has unique dimensions, with great complexity 
+and high stakes for adverse events. The recommendations are anticipated to 
+increase the rate of EHR adoption by pediatric care providers and improve 
+patient safety for pediatric patients. The described methodology might be useful 
+for accelerating adoption and increasing safety in a variety of clinical areas 
+where the adoption of EHRs is lagging or usability issues are believed to reduce 
+potential patient safety, efficiency, and quality benefits.
+
+DOI: 10.1016/s1553-7250(13)39019-9
+PMID: 23516763 [Indexed for MEDLINE]
+
+
+49. Health Informatics J. 2017 Sep;23(3):234-245. doi: 10.1177/1460458216642504. 
+Epub 2016 Jun 7.
+
+Usability evaluation of the digital anger thermometer app.
+
+Mattson DC(1).
+
+Author information:
+(1)The Creative Counseling Group, USA.
+
+The digital anger thermometer is a prototype for a mobile application (app) for 
+use with adults in anger management treatment. The digital anger thermometer 
+incorporates standards of software development in addition to anger management 
+resources from the Substance Abuse and Mental Health Services Administration. 
+The digital anger thermometer underwent a usability study conducted by five 
+expert reviewers. The results indicate that it is easy to learn, efficient, and 
+ergonomically sound. However, it does not offer support features or user-error 
+tolerance. The digital anger thermometer prototype requires additional usability 
+studies and comparative research in order for it to become an actual mental 
+health app.
+
+DOI: 10.1177/1460458216642504
+PMID: 27271113 [Indexed for MEDLINE]
+
+
+50. J Med Internet Res. 2011 Oct 18;13(4):e87. doi: 10.2196/jmir.1721.
+
+Development of an interactive, Web-delivered system to increase provider-patient 
+engagement in smoking cessation.
+
+Sadasivam RS(1), Delaughter K, Crenshaw K, Sobko HJ, Williams JH, Coley HL, Ray 
+MN, Ford DE, Allison JJ, Houston TK.
+
+Author information:
+(1)Division of Health Informatics and Implementation Science, Quantitative 
+Health Sciences, University of Massachusetts Medical School, Worcester, MA 
+01545, USA. rajani.sadasivam@umassmed.edu
+
+BACKGROUND: Patient self-management interventions for smoking cessation are 
+effective but underused. Health care providers do not routinely refer smokers to 
+these interventions.
+OBJECTIVE: The objective of our study was to uncover barriers and facilitators 
+to the use of an e-referral system that will be evaluated in a community-based 
+randomized trial. The e-referral system will allow providers to refer smokers to 
+an online smoking intervention during routine clinical care.
+METHODS: We devised a four-step development and pilot testing process: (1) 
+system conceptualization using Delphi to identify key functionalities that would 
+overcome barriers in provider referrals for smoking cessation, (2) Web system 
+programming using agile software development and best programming practices with 
+usability refinement using think-aloud testing, (3) implementation planning 
+using the nominal group technique for the effective integration of the system 
+into the workflow of practices, and (4) pilot testing to identify practice 
+recruitment and system-use barriers in real-world settings.
+RESULTS: Our Delphi process (step 1) conceptualized three key e-referral 
+functions: (1) Refer Your Smokers, allowing providers to e-refer patients at the 
+point of care by entering their emails directly into the system, (2) practice 
+reports, providing feedback regarding referrals and impact of smoking-cessation 
+counseling, and (3) secure messaging, facilitating provider-patient 
+communication. Usability testing (step 2) suggested the system was easy to use, 
+but implementation planning (step 3) suggested several important approaches to 
+encourage use (eg, proactive email cues to encourage practices to participate). 
+Pilot testing (step 4) in 5 practices had limited success, with only 2 patients 
+referred; we uncovered important recruitment and system-use barriers (eg, lack 
+of study champion, training, and motivation, registration difficulties, and 
+forgetting to refer).
+CONCLUSIONS: Implementing a system to be used in a clinical setting is complex, 
+as several issues can affect system use. In our ongoing large randomized trial, 
+preliminary analysis with the first 50 practices using the system for 3 months 
+demonstrated that our rigorous preimplementation evaluation helped us 
+successfully identify and overcome these barriers before the main trial.
+TRIAL: Clinicaltrials.gov NCT00797628; 
+http://clinicaltrials.gov/ct2/show/NCT00797628 (Archived by WebCite at 
+http://www.webcitation.org/61feCfjCy).
+
+DOI: 10.2196/jmir.1721
+PMCID: PMC3222193
+PMID: 22011394 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared
+
+
+51. J Med Syst. 2012 Apr;36(2):437-50. doi: 10.1007/s10916-010-9488-x. Epub 2010 Apr 
+23.
+
+A user-centered, object-oriented methodology for developing Health Information 
+Systems: a Clinical Information System (CIS) example.
+
+Konstantinidis G(1), Anastassopoulos GC, Karakos AS, Anagnostou E, Danielides V.
+
+Author information:
+(1)ENT Department, Democritus University of Thrace, Alexandroupolis, Greece. 
+georgios.konstantinidis@gmail.com
+
+The aim of this study is to present our perspectives on healthcare analysis and 
+design and the lessons learned from our experience with the development of a 
+distributed, object-oriented Clinical Information System (CIS). In order to 
+overcome known issues regarding development, implementation and finally 
+acceptance of a CIS by the physicians we decided to develop a novel 
+object-oriented methodology by integrating usability principles and techniques 
+in a simplified version of a well established software engineering process 
+(SEP), the Unified Process (UP). A multilayer architecture has been defined and 
+implemented with the use of a vendor application framework. Our first 
+experiences from a pilot implementation of our CIS are positive. This approach 
+allowed us to gain a socio-technical understanding of the domain and enabled us 
+to identify all the important factors that define both the structure and the 
+behavior of a Health Information System.
+
+DOI: 10.1007/s10916-010-9488-x
+PMID: 20703707 [Indexed for MEDLINE]
+
+
+52. IEEE J Biomed Health Inform. 2016 Jan;20(1):189-200. doi: 
+10.1109/JBHI.2014.2378814.
+
+Design, Implementation, and Wide Pilot Deployment of FitForAll: An Easy to use 
+Exergaming Platform Improving Physical Fitness and Life Quality of Senior 
+Citizens.
+
+Konstantinidis EI, Billis AS, Mouzakidis CA, Zilidou VI, Antoniou PE, Bamidis 
+PD.
+
+Many platforms have emerged as response to the call for technology supporting 
+active and healthy aging. Key requirements for any such e-health systems and any 
+subsequent business exploitation are tailor-made design and proper evaluation. 
+This paper presents the design, implementation, wide deployment, and evaluation 
+of the low cost, physical exercise, and gaming (exergaming) FitForAll (FFA) 
+platform system usability, user adherence to exercise, and efficacy are 
+explored. The design of FFA is tailored to elderly populations, distilling 
+literature guidelines and recommendations. The FFA architecture introduces 
+standard physical exercise protocols in exergaming software engineering, as well 
+as, standard physical assessment tests for augmented adaptability through 
+adjustable exercise intensity. This opens up the way to next generation 
+exergaming software, which may be more automatically/smartly adaptive. 116 
+elderly users piloted FFA five times/week, during an eight-week controlled 
+intervention. Usability evaluation was formally conducted (SUS, SUMI 
+questionnaires). Control group consisted of a size-matched elderly group 
+following cognitive training. Efficacy was assessed objectively through the 
+senior fitness (Fullerton) test, and subjectively, through WHOQoL-BREF 
+comparisons of pre-postintervention between groups. Adherence to schedule was 
+measured by attendance logs. The global SUMI score was 68.33±5.85%, while SUS 
+was 77.7. Good usability perception is reflected in relatively high adherence of 
+82% for a daily two months pilot schedule. Compared to control group, elderly 
+using FFA improved significantly strength, flexibility, endurance, and balance 
+while presenting a significant trend in quality of life improvements. This is 
+the first elderly focused exergaming platform intensively evaluated with more 
+than 100 participants. The use of formal tools makes the findings comparable to 
+other studies and forms an elderly exergaming corpus.
+
+DOI: 10.1109/JBHI.2014.2378814
+PMID: 26731797 [Indexed for MEDLINE]
+
+
+53. AMIA Annu Symp Proc. 2012;2012:799-808. Epub 2012 Nov 3.
+
+OPIC: Ontology-driven Patient Information Capturing system for epilepsy.
+
+Sahoo SS(1), Zhao M, Luo L, Bozorgi A, Gupta D, Lhatoo SD, Zhang GQ.
+
+Author information:
+(1)Division of Medical Informatics, CaseWestern Reserve University, Cleveland, 
+OH, USA.
+
+The widespread use of paper or document-based forms for capturing patient 
+information in various clinical settings, for example in epilepsy centers, is a 
+critical barrier for large-scale, multi-center research studies that require 
+interoperable, consistent, and error-free data collection. This challenge can be 
+addressed by a web-accessible and flexible patient data capture system that is 
+supported by a common terminological system to facilitate data re-usability, 
+sharing, and integration. We present OPIC, an Ontology-driven Patient 
+Information Capture (OPIC) system that uses a domain-specific epilepsy and 
+seizure ontology (EpSO) to (1) support structured entry of multi-modal epilepsy 
+data, (2) proactively ensure quality of data through use of ontology terms in 
+drop-down menus, and (3) identify and index clinically relevant ontology terms 
+in free-text fields to improve accuracy of subsequent analytical queries (e.g. 
+cohort identification). EpSO, modeled using the Web Ontology Language (OWL), 
+conforms to the recommendations of the International League Against Epilepsy 
+(ILAE) classification and terminological commission. OPIC has been developed 
+using agile software engineering methodology for rapid development cycles in 
+close collaboration with domain expert and end users. We report the result from 
+the initial deployment of OPIC at the University Hospitals Case Medical Center 
+(UH CMC) epilepsy monitoring unit (EMU) as part of the NIH-funded project on 
+Sudden Unexpected Death in Epilepsy (SUDEP). Preliminary user evaluation shows 
+that OPIC has achieved its design objectives to be an intuitive patient 
+information capturing system that also reduces the potential for data entry 
+errors and variability in use of epilepsy terms.
+
+PMCID: PMC3540561
+PMID: 23304354 [Indexed for MEDLINE]
+
+
+54. J Med Internet Res. 2012 May 16;14(3):e74. doi: 10.2196/jmir.1943.
+
+Using Internet search engines to obtain medical information: a comparative 
+study.
+
+Wang L(1), Wang J, Wang M, Li Y, Liang Y, Xu D.
+
+Author information:
+(1)Key Laboratory of Symbol Computation and Knowledge Engineering of Ministry of 
+Education, College of Computer Science and Technology, Jilin University, 
+Changchun, China.
+
+BACKGROUND: The Internet has become one of the most important means to obtain 
+health and medical information. It is often the first step in checking for basic 
+information about a disease and its treatment. The search results are often 
+useful to general users. Various search engines such as Google, Yahoo!, Bing, 
+and Ask.com can play an important role in obtaining medical information for both 
+medical professionals and lay people. However, the usability and effectiveness 
+of various search engines for medical information have not been comprehensively 
+compared and evaluated.
+OBJECTIVE: To compare major Internet search engines in their usability of 
+obtaining medical and health information.
+METHODS: We applied usability testing as a software engineering technique and a 
+standard industry practice to compare the four major search engines (Google, 
+Yahoo!, Bing, and Ask.com) in obtaining health and medical information. For this 
+purpose, we searched the keyword breast cancer in Google, Yahoo!, Bing, and 
+Ask.com and saved the results of the top 200 links from each search engine. We 
+combined nonredundant links from the four search engines and gave them to 
+volunteer users in an alphabetical order. The volunteer users evaluated the 
+websites and scored each website from 0 to 10 (lowest to highest) based on the 
+usefulness of the content relevant to breast cancer. A medical expert identified 
+six well-known websites related to breast cancer in advance as standards. We 
+also used five keywords associated with breast cancer defined in the latest 
+release of Systematized Nomenclature of Medicine-Clinical Terms (SNOMED CT) and 
+analyzed their occurrence in the websites.
+RESULTS: Each search engine provided rich information related to breast cancer 
+in the search results. All six standard websites were among the top 30 in search 
+results of all four search engines. Google had the best search validity (in 
+terms of whether a website could be opened), followed by Bing, Ask.com, and 
+Yahoo!. The search results highly overlapped between the search engines, and the 
+overlap between any two search engines was about half or more. On the other 
+hand, each search engine emphasized various types of content differently. In 
+terms of user satisfaction analysis, volunteer users scored Bing the highest for 
+its usefulness, followed by Yahoo!, Google, and Ask.com.
+CONCLUSIONS: Google, Yahoo!, Bing, and Ask.com are by and large effective search 
+engines for helping lay users get health and medical information. Nevertheless, 
+the current ranking methods have some pitfalls and there is room for improvement 
+to help users get more accurate and useful information. We suggest that search 
+engine users explore multiple search engines to search different types of health 
+information and medical knowledge for their own needs and get a professional 
+consultation if necessary.
+
+DOI: 10.2196/jmir.1943
+PMCID: PMC3799567
+PMID: 22672889 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None declared.
+
+
+55. Comput Methods Programs Biomed. 1994 Dec;45 Suppl:S1-11.
+
+The component-based architecture of the HELIOS medical software engineering 
+environment.
+
+Degoulet P(1), Jean FC, Engelmann U, Meinzer HP, Baud R, Sandblad B, Wigertz O, 
+Le Meur R, Jagermann C.
+
+Author information:
+(1)Medical Informatics Department, Broussais University Hospital, Paris, France.
+
+The constitution of highly integrated health information networks and the growth 
+of multimedia technologies raise new challenges for the development of medical 
+applications. We describe in this paper the general architecture of the HELIOS 
+medical software engineering environment devoted to the development and 
+maintenance of multimedia distributed medical applications. HELIOS is made of a 
+set of software components, federated by a communication channel called the 
+HELIOS Unification Bus. The HELIOS kernel includes three main components, the 
+Analysis-Design and Environment, the Object Information System and the Interface 
+Manager. HELIOS services consist in a collection of toolkits providing the 
+necessary facilities to medical application developers. They include Image 
+Related services, a Natural Language Processor, a Decision Support System and 
+Connection services. The project gives special attention to both object-oriented 
+approaches and software re-usability that are considered crucial steps towards 
+the development of more reliable, coherent and integrated applications.
+
+PMID: 7882667 [Indexed for MEDLINE]
+
+
+56. Stud Health Technol Inform. 2012;178:124-9.
+
+Evaluation of bluetooth low power for physiological monitoring in a home based 
+cardiac rehabilitation program.
+
+Martin T(1), Ding H, D'Souza M, Karunanithi M.
+
+Author information:
+(1)University of Queensland, Brisbane, Australia.
+
+Cardiovascular disease (CVD) is the leading cause of mortality in Australia, and 
+places large burdens on the healthcare system. To assist patients with CVDs in 
+recovering from cardiac events and mediating cardiac risk factors, a home based 
+cardiac rehabilitation program, known as the Care Assessment Platform (CAP), was 
+developed. In the CAP program, patients are required to manually enter health 
+information into their mobile phones on a daily basis. The manual operation is 
+often subject to human errors and is inconvenient for some elderly patients. To 
+improve this, an automated wireless solution has been desired. The objectives of 
+this paper are to investigate the feasibility of implementing the newly released 
+Bluetooth 4.0 (BT4.0) for the CAP program, and practically evaluate BT4.0 
+communications between a developed mobile application and some emulated 
+healthcare devices. The study demonstrated that BT4.0 addresses usability, 
+interoperability and security for healthcare applications, reduces the power 
+consumption in wireless communication, and improves the flexibility of interface 
+for software development. This evaluation study provides an essential mobile 
+BT4.0 framework to incorporate a large range of healthcare devices for clinical 
+assessment and intervention in the CAP program, and hence it is useful for 
+similar development and research work of other mobile healthcare solutions.
+
+PMID: 22797030 [Indexed for MEDLINE]
